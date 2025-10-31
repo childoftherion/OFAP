@@ -24,35 +24,33 @@ This project provides:
 
 ## Repository Structure
 
-```
 Oregon-Food/
-├── [README.md](README.md)                          # This file
-├── [LICENSE](LICENSE)                            # Public domain dedication
+├── [README.md](README.md) # This file
+├── [LICENSE](LICENSE) # Public domain dedication
 │
-├── considerations/                    # Ballot measure proposals and strategies
-│   ├── [README.md](considerations/README.md)                      # Overview of ballot measures
-│   ├── [proposal-overview.md](considerations/proposal-overview.md)           # Strategic overview and rationale
-│   ├── [measure-1-constitutional-amendment.md](considerations/measure-1-constitutional-amendment.md)    # Constitutional amendment
-│   ├── [measure-2-statutory-program-act.md](considerations/measure-2-statutory-program-act.md)      # Program legislation
-│   ├── [measure-3-funding-mechanism.md](considerations/measure-3-funding-mechanism.md)          # Funding structure
-│   ├── [public-support-strategy.md](considerations/public-support-strategy.md)              # Coalition building strategy
-│   ├── [implementation-roadmap.md](considerations/implementation-roadmap.md)               # Implementation plan
-│   └── [key-talking-points.md](considerations/key-talking-points.md)                   # Campaign messaging
+├── considerations/ # Ballot measure proposals and strategies
+│ ├── [README.md](considerations/README.md) # Overview of ballot measures
+│ ├── [proposal-overview.md](considerations/proposal-overview.md) # Strategic overview and rationale
+│ ├── [measure-1-constitutional-amendment.md](considerations/measure-1-constitutional-amendment.md) # Constitutional amendment
+│ ├── [measure-2-statutory-program-act.md](considerations/measure-2-statutory-program-act.md) # Program legislation
+│ ├── [measure-3-funding-mechanism.md](considerations/measure-3-funding-mechanism.md) # Funding structure
+│ ├── [public-support-strategy.md](considerations/public-support-strategy.md) # Coalition building strategy
+│ ├── [implementation-roadmap.md](considerations/implementation-roadmap.md) # Implementation plan
+│ └── [key-talking-points.md](considerations/key-talking-points.md) # Campaign messaging
 │
-└── State-budget/                      # Comprehensive budget analysis
-    ├── [README.md](State-budget/README.md)                      # Budget analysis overview
-    ├── [nasbo-budget-data.md](State-budget/nasbo-budget-data.md)           # ⭐ Official budget data from NASBO
-    ├── [oregon-budget-overview.md](State-budget/oregon-budget-overview.md)      # 2025-2027 biennium budget summary
-    ├── [revenue-sources-analysis.md](State-budget/revenue-sources-analysis.md)    # All major revenue sources
-    ├── [olcc-revenue-detailed.md](State-budget/olcc-revenue-detailed.md)       # OLCC (liquor & cannabis) revenue
-    ├── [lottery-revenue-analysis.md](State-budget/lottery-revenue-analysis.md)    # Oregon Lottery revenue
-    ├── [alcohol-tax-revenue.md](State-budget/alcohol-tax-revenue.md)         # Beer, wine, liquor taxes
-    ├── [cannabis-tax-revenue.md](State-budget/cannabis-tax-revenue.md)       # Cannabis/marijuana tax revenue
-    ├── [comprehensive-funding-analysis.md](State-budget/comprehensive-funding-analysis.md) # Complete funding analysis
-    ├── [funding-recommendations-summary.md](State-budget/funding-recommendations-summary.md) # Executive summary
-    ├── [funding-strategies-ofap.md](State-budget/funding-strategies-ofap.md)     # OFAP funding recommendations
-    └── [official-sources-references.md](State-budget/official-sources-references.md) # Links to official budget documents
-```
+└── State-budget/ # Comprehensive budget analysis
+├── [README.md](State-budget/README.md) # Budget analysis overview
+├── [nasbo-budget-data.md](State-budget/nasbo-budget-data.md) # ⭐ Official budget data from NASBO
+├── [oregon-budget-overview.md](State-budget/oregon-budget-overview.md) # 2025-2027 biennium budget summary
+├── [revenue-sources-analysis.md](State-budget/revenue-sources-analysis.md) # All major revenue sources
+├── [olcc-revenue-detailed.md](State-budget/olcc-revenue-detailed.md) # OLCC (liquor & cannabis) revenue
+├── [lottery-revenue-analysis.md](State-budget/lottery-revenue-analysis.md) # Oregon Lottery revenue
+├── [alcohol-tax-revenue.md](State-budget/alcohol-tax-revenue.md) # Beer, wine, liquor taxes
+├── [cannabis-tax-revenue.md](State-budget/cannabis-tax-revenue.md) # Cannabis/marijuana tax revenue
+├── [comprehensive-funding-analysis.md](State-budget/comprehensive-funding-analysis.md) # Complete funding analysis
+├── [funding-recommendations-summary.md](State-budget/funding-recommendations-summary.md) # Executive summary
+├── [funding-strategies-ofap.md](State-budget/funding-strategies-ofap.md) # OFAP funding recommendations
+└── [official-sources-references.md](State-budget/official-sources-references.md) # Links to official budget documents
 
 ## Key Components
 
