@@ -488,6 +488,18 @@ For the first biennium following passage:
 
 ## Rationale for Funding Approach
 
+### Supporting Evidence: Successful Permanent Funds
+
+The funding structure for OFAP is modeled after successful state permanent funds that have operated for decades and even centuries:
+
+- **Alaska Permanent Fund** (48+ years): Professional oversight board (Alaska Permanent Fund Corporation) provides model for Measure 3's oversight board
+- **North Dakota Legacy Fund** (14+ years): Biennial transfer model aligns with Oregon's biennial budget cycle
+- **Oregon Common School Fund** (165+ years): Oregon precedent demonstrates state's ability to manage permanent funds professionally
+- **Texas Permanent School Fund** (170+ years): $50+ billion fund demonstrates large permanent funds are feasible and manageable
+- **All Successful Funds**: Use multiple revenue sources and professional oversight for stability and efficiency
+
+**See**: [Supporting Evidence Summary](../Examples/supporting-evidence-summary.md) for comprehensive analysis of permanent fund funding structures and governance models.
+
 ### Strategic Funding Philosophy
 
 **Avoid Tax Increases Where Possible**

@@ -13,6 +13,8 @@ This directory contains comprehensive proposals for establishing a state-funded 
 
 ## Proposed Ballot Measures
 
+**Note**: These measures can be proposed together or independently. Measure 4 (Cannabis Permanent Fund) is independent but complementary to Measures 1-3.
+
 ### Measure 1: Oregon Food Security Amendment (Constitutional)
 
 **File**: `measure-1-constitutional-amendment.md`
@@ -52,6 +54,30 @@ Establishes dedicated funding source with oversight board. Ensures transparency 
 - Independent oversight board
 - Multiple revenue sources (flexibility)
 - Administrative cost cap: 5%
+
+### Measure 4: Oregon Cannabis Permanent Fund (Constitutional)
+
+**File**: `measure-4-cannabis-permanent-fund.md`
+
+Creates a constitutionally protected permanent fund from existing cannabis tax revenues and fees, similar to Alaska Permanent Fund. Provides long-term financial asset for future generations of Oregonians.
+
+**Key Features:**
+
+- Constitutional amendment for permanence (like Alaska Permanent Fund)
+- **NO NEW TAXES**: Uses only existing 17% tax rate and existing fees
+- 10% of existing tax revenue + all licensing fees to permanent fund
+- Principal protection: Principal cannot be spent without voter approval
+- Earnings protection: Earnings cannot be used for education, health, or general fund
+- Public vote required for any earnings reallocation changes
+- Universal dividends or direct payment programs
+- Private cannabis industry continues operating unchanged
+
+**Revenue Source:**
+- 10% of existing cannabis tax revenue ($16.95M annually)
+- All existing licensing fees ($20-30M annually)
+- Total: $37-47 million annually (100% from existing revenues)
+
+**See**: [Oregon Cannabis Permanent Fund Proposal](../Examples/Oregon-proposals/oregon-cannabis-permanent-fund.md) for detailed analysis.
 
 ## Supporting Documents
 
@@ -316,4 +342,18 @@ These proposals are living documents and should be refined based on:
 
 ---
 
-**Note**: These proposals are designed to have broad public support in Oregon. They incorporate lessons from successful ballot measures (Measure 111) and avoid pitfalls of failed measures (Measure 118). The three-measure approach provides flexibility - all three can be passed together for maximum impact, or individual measures can stand alone if needed.
+**Note**: These proposals are designed to have broad public support in Oregon. They incorporate lessons from successful ballot measures (Measure 111) and avoid pitfalls of failed measures (Measure 118). 
+
+**Measure Relationships:**
+
+- **Measures 1-3**: Work together to establish Oregon Food Assistance Program (OFAP)
+  - Measure 1: Constitutional framework
+  - Measure 2: Program implementation
+  - Measure 3: Funding mechanism (General Fund based)
+
+- **Measure 4**: Independent permanent fund from cannabis revenues
+  - Creates separate permanent endowment fund
+  - Can complement Measures 1-3 but operates independently
+  - Provides long-term financial asset for all Oregonians
+
+**Flexibility**: All four measures can be passed together for maximum impact, or individual measures can stand alone if needed. Measure 4 is designed to work independently but could eventually provide earnings that supplement other programs (subject to voter approval for any earnings reallocation).

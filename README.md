@@ -54,6 +54,23 @@ Comprehensive budget analysis and revenue sources:
 - **[funding-strategies-ofap.md](State-budget/funding-strategies-ofap.md)** - OFAP funding recommendations
 - **[official-sources-references.md](State-budget/official-sources-references.md)** - Links to official budget documents
 
+### Supporting Evidence (`Examples/`)
+
+Comprehensive documentation of successful state permanent funds and agrarian movements that support OFAP:
+
+- **[README.md](Examples/README.md)** - Overview of supporting evidence
+- **[supporting-evidence-summary.md](Examples/supporting-evidence-summary.md)** - ⭐ Comprehensive synthesis of all evidence
+- **[alaska-fund.md](Examples/alaska-fund.md)** - Alaska Permanent Fund (48+ years of success)
+- **[north-dakota-legacy-fund.md](Examples/north-dakota-legacy-fund.md)** - North Dakota Legacy Fund
+- **[oregon-common-school-fund.md](Examples/oregon-common-school-fund.md)** - ⭐ Oregon Common School Fund (165+ years - Oregon precedent)
+- **[alabama-trust-fund.md](Examples/alabama-trust-fund.md)** - Alabama Trust Fund
+- **[texas-permanent-school-fund.md](Examples/texas-permanent-school-fund.md)** - Texas Permanent School Fund (170+ years)
+- **[texas-permanent-university-fund.md](Examples/texas-permanent-university-fund.md)** - Texas Permanent University Fund
+- **[west-virginia-future-fund.md](Examples/west-virginia-future-fund.md)** - West Virginia Future Fund (cautionary example)
+- **[agrarian-movements.md](Examples/agrarian-movements.md)** - Agrarian movements and food security initiatives
+
+**Key Finding**: Multiple states have successfully operated permanent funds for 48-170+ years. Oregon's Common School Fund (165+ years) demonstrates Oregonians support constitutionally protected permanent funds.
+
 ### Additional Tax Data Sources
 
 **Oregon Department of Revenue - Research Reports and Statistics**: [https://www.oregon.gov/dor/gov-research/pages/default.aspx](https://www.oregon.gov/dor/gov-research/pages/default.aspx)

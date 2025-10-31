@@ -59,12 +59,33 @@ The State shall establish oversight mechanisms to ensure program effectiveness, 
 - Creates long-term commitment beyond individual legislative sessions
 - Demonstrates Oregon's values and priorities
 
+### Precedent: Oregon Common School Fund
+
+- **165+ Years of Success**: Oregon has successfully managed a constitutionally protected permanent fund for 165+ years
+- **Public Trust**: Oregonians understand and support constitutionally protected permanent funds
+- **Proven Model**: Common School Fund demonstrates constitutional protection works in Oregon
+- **Management Expertise**: State has proven ability to manage permanent funds professionally
+- **See**: [Oregon Common School Fund Documentation](../Examples/oregon-common-school-fund.md)
+
+### Supporting Evidence: State Permanent Funds
+
+Multiple states have successfully established and maintained constitutionally protected permanent funds:
+
+- **Alaska Permanent Fund** (1976-Present, 48+ years): $64-80 billion fund demonstrates constitutional protection provides permanence
+- **Texas Permanent School Fund** (1854-Present, 170+ years): Longest-running permanent fund, demonstrates long-term success
+- **Texas Permanent University Fund** (1876-Present, 148+ years): $30+ billion fund from dedicated resources
+- **North Dakota Legacy Fund** (2010-Present, 14+ years): $9.4+ billion accumulated through automatic funding formula
+- **Alabama Trust Fund** (1985-Present, 39+ years): Constitutional protection provides long-term stability
+- **Cautionary Example - West Virginia Future Fund** (2014-2023): Statutory-only program closed after 9 years, demonstrating need for constitutional protection
+
+**See**: [Supporting Evidence Summary](../Examples/supporting-evidence-summary.md) for comprehensive analysis of all permanent fund examples.
+
 ### Advantages
 
-1. **Permanent Framework**: Constitutional amendments are more durable than statutes
-2. **Legal Foundation**: Provides clear mandate for state action
+1. **Permanent Framework**: Constitutional amendments are more durable than statutes - proven by 48-170+ years of successful operation in other states
+2. **Legal Foundation**: Provides clear mandate for state action - Oregon Common School Fund demonstrates this works in Oregon
 3. **Bipartisan Appeal**: Frames as fundamental right rather than partisan policy
-4. **Public Trust**: Shows long-term commitment to food security
+4. **Public Trust**: Shows long-term commitment to food security - Oregonians trust constitutionally protected programs
 
 ### Messaging
 
