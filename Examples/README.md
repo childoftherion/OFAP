@@ -1,10 +1,12 @@
 # Supporting Evidence: Permanent Funds and Agrarian Movements
 
-This folder contains comprehensive documentation of successful state permanent funds and agrarian movements that provide supporting evidence for the Oregon Food Assistance Program (OFAP). These examples demonstrate proof-of-concept, governance models, and lessons learned that directly support OFAP's design and implementation strategy.
+This folder contains comprehensive documentation of successful state permanent funds and agrarian movements that provide supporting evidence for the Oregon Food Assistance Program (OFAP) and Measure 4 (Oregon Cannabis Permanent Fund). These examples demonstrate proof-of-concept, governance models, and lessons learned that directly support OFAP's design and implementation strategy.
 
 ## Overview
 
-The Oregon Food Assistance Program is designed using proven models from successful permanent funds and community food security initiatives. This documentation provides evidence that OFAP can succeed and demonstrates how these successful examples inform OFAP's design.
+The Oregon Food Assistance Program (OFAP) and Measure 4 (Oregon Cannabis Permanent Fund) are designed using proven models from successful permanent funds and community food security initiatives. This documentation provides evidence that both initiatives can succeed and demonstrates how these successful examples inform their designs.
+
+**Measure 4 Application**: The Alaska Permanent Fund is the primary model for Measure 4, demonstrating how constitutionally protected permanent funds can provide universal dividends from resource revenues without state ownership of the industry.
 
 ## Quick Reference: Supporting Evidence Summary
 
@@ -20,6 +22,7 @@ The Oregon Food Assistance Program is designed using proven models from successf
 - **Scale**: $64-80 billion fund demonstrates large permanent funds are feasible
 - **Public Support**: Universal dividends create broad public support
 - **OFAP Application**: Measure 1's constitutional amendment provides similar protection
+- **Measure 4 Application**: ⭐ **PRIMARY MODEL** - Direct model for cannabis permanent fund with universal dividends
 - **Economic Multiplier**: Dividends generate $1.50-$2.00 in economic activity per $1 paid
 
 ### 2. North Dakota Legacy Fund (2010-Present, 14+ Years)
@@ -161,6 +164,17 @@ Based on analysis of all successful funds and movements:
 - ✅ Professional oversight board (like Alaska Permanent Fund Corporation, State Investment Boards)
 - ✅ Diversified funding reduces risk (proven by all successful funds)
 - ✅ Biennial appropriations align with Oregon's budget cycle (North Dakota model)
+
+### Measure 4: Oregon Cannabis Permanent Fund
+
+**Supporting Evidence:**
+
+- ✅ Alaska Permanent Fund: Direct model for constitutionally protected permanent fund with universal dividends
+- ✅ Oregon Common School Fund: Oregon precedent for constitutionally protected permanent funds
+- ✅ No New Taxes: Uses existing cannabis revenues, following successful resource-based fund models
+- ✅ Private Industry: Maintains private cannabis industry (unlike Alaska's oil nationalization), following commercial revenue model
+- ✅ Constitutional Protection: All successful long-term funds require constitutional protection
+- ✅ Universal Benefits: Dividends or direct payments create broad public support (Alaska model)
 
 ## Key Messages for Public Campaign
 

@@ -33,6 +33,7 @@ Comprehensive ballot measure proposals and strategies:
 - **[measure-1-constitutional-amendment.md](considerations/measure-1-constitutional-amendment.md)** - Constitutional amendment
 - **[measure-2-statutory-program-act.md](considerations/measure-2-statutory-program-act.md)** - Program legislation
 - **[measure-3-funding-mechanism.md](considerations/measure-3-funding-mechanism.md)** - Funding structure
+- **[measure-4-cannabis-permanent-fund.md](considerations/measure-4-cannabis-permanent-fund.md)** - Cannabis Permanent Fund (constitutional)
 - **[public-support-strategy.md](considerations/public-support-strategy.md)** - Coalition building strategy
 - **[implementation-roadmap.md](considerations/implementation-roadmap.md)** - Implementation plan
 - **[key-talking-points.md](considerations/key-talking-points.md)** - Campaign messaging
@@ -56,20 +57,29 @@ Comprehensive budget analysis and revenue sources:
 
 ### Supporting Evidence (`Examples/`)
 
-Comprehensive documentation of successful state permanent funds and agrarian movements that support OFAP:
+Comprehensive documentation of successful state permanent funds that support OFAP and Measure 4:
 
 - **[README.md](Examples/README.md)** - Overview of supporting evidence
 - **[supporting-evidence-summary.md](Examples/supporting-evidence-summary.md)** - ⭐ Comprehensive synthesis of all evidence
-- **[alaska-fund.md](Examples/alaska-fund.md)** - Alaska Permanent Fund (48+ years of success)
+- **[alaska-fund.md](Examples/alaska-fund.md)** - Alaska Permanent Fund (48+ years of success) - **Model for Measure 4**
 - **[north-dakota-legacy-fund.md](Examples/north-dakota-legacy-fund.md)** - North Dakota Legacy Fund
 - **[oregon-common-school-fund.md](Examples/oregon-common-school-fund.md)** - ⭐ Oregon Common School Fund (165+ years - Oregon precedent)
 - **[alabama-trust-fund.md](Examples/alabama-trust-fund.md)** - Alabama Trust Fund
 - **[texas-permanent-school-fund.md](Examples/texas-permanent-school-fund.md)** - Texas Permanent School Fund (170+ years)
 - **[texas-permanent-university-fund.md](Examples/texas-permanent-university-fund.md)** - Texas Permanent University Fund
 - **[west-virginia-future-fund.md](Examples/west-virginia-future-fund.md)** - West Virginia Future Fund (cautionary example)
-- **[agrarian-movements.md](Examples/agrarian-movements.md)** - Agrarian movements and food security initiatives
 
-**Key Finding**: Multiple states have successfully operated permanent funds for 48-170+ years. Oregon's Common School Fund (165+ years) demonstrates Oregonians support constitutionally protected permanent funds.
+### Oregon Permanent Fund Proposals (`Examples/Oregon-proposals/`)
+
+Detailed proposals for establishing permanent funds in Oregon, modeled after successful permanent funds:
+
+- **[README.md](Examples/Oregon-proposals/README.md)** - Overview of Oregon permanent fund proposals
+- **[oregon-cannabis-permanent-fund.md](Examples/Oregon-proposals/oregon-cannabis-permanent-fund.md)** - ⭐ **Foundation for Measure 4**
+- **[oregon-food-security-permanent-fund.md](Examples/Oregon-proposals/oregon-food-security-permanent-fund.md)** - Food security permanent fund proposal
+- **[oregon-natural-resources-permanent-fund.md](Examples/Oregon-proposals/oregon-natural-resources-permanent-fund.md)** - Natural resources permanent fund
+- **[oregon-higher-education-permanent-fund.md](Examples/Oregon-proposals/oregon-higher-education-permanent-fund.md)** - Higher education permanent fund
+
+**Key Finding**: Multiple states have successfully operated permanent funds for 48-170+ years. Oregon's Common School Fund (165+ years) demonstrates Oregonians support constitutionally protected permanent funds. Measure 4 applies this proven model to cannabis revenues.
 
 ### Additional Tax Data Sources
 
@@ -90,7 +100,7 @@ Contact: dor.research@dor.oregon.gov | 503-945-8383
 
 ### Ballot Measures (`considerations/`)
 
-Three complementary ballot measures designed to establish the Oregon Food Assistance Program:
+Four ballot measures designed to establish the Oregon Food Assistance Program and create permanent funds for Oregon:
 
 #### Measure 1: Oregon Food Security Amendment (Constitutional)
 
@@ -114,6 +124,18 @@ Three complementary ballot measures designed to establish the Oregon Food Assist
 - Administrative cost cap: 5%
 - Multiple revenue sources for flexibility
 - Ensures transparency and fiscal responsibility
+
+#### Measure 4: Oregon Cannabis Permanent Fund (Constitutional)
+
+- Creates constitutionally protected permanent fund from existing cannabis revenues
+- **NO NEW TAXES**: Uses only existing 17% tax rate and existing licensing fees
+- 10% of existing tax revenue + all licensing fees to permanent fund ($37-47M annually)
+- Principal protection: Principal cannot be spent without voter approval
+- Earnings protection: Earnings cannot be used for education, health, or general fund
+- Public vote required for any earnings reallocation changes
+- Universal dividends or direct payment programs
+- Private cannabis industry continues operating unchanged
+- Modeled after Alaska Permanent Fund (48+ years, $64-80 billion)
 
 ### Budget Analysis (`State-budget/`)
 

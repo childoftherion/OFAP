@@ -1,8 +1,8 @@
-# Supporting Evidence: Permanent Funds and Agrarian Movements for Oregon Food Assistance Program
+# Supporting Evidence: Permanent Funds for Oregon Food Assistance Program
 
 ## Overview
 
-This document synthesizes evidence from successful state permanent funds and agrarian movements to demonstrate that the Oregon Food Assistance Program (OFAP) can be successful. These examples provide proof-of-concept, governance models, and lessons learned that directly support OFAP's design and implementation strategy.
+This document synthesizes evidence from successful state permanent funds to demonstrate that the Oregon Food Assistance Program (OFAP) can be successful. These examples provide proof-of-concept, governance models, and lessons learned that directly support OFAP's design and implementation strategy.
 
 ## Executive Summary
 
@@ -422,4 +422,3 @@ See individual fund documentation for detailed references:
 - Texas Permanent School Fund: `texas-permanent-school-fund.md`
 - Texas Permanent University Fund: `texas-permanent-university-fund.md`
 - West Virginia Future Fund: `west-virginia-future-fund.md`
-- Agrarian Movements: `agrarian-movements.md`
