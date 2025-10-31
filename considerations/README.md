@@ -129,16 +129,50 @@ Strategic overview and rationale for the three-measure approach, lessons learned
 
 ### Economic Benefits
 
+**Economic Multiplier Effect:**
+
+- Every $1 in food assistance generates $1.50-$2.00 in economic activity
 - Economic activity generated: $960 million - $1.7 billion annually
 - Tax revenue generated: $50-100 million annually
+
+**Cost Savings:**
+
 - Healthcare cost savings: $100-200 million annually
-- **Net economic benefit: Positive return on investment**
+  - Reduced ER visits, chronic disease management, mental health improvements
+  - Research shows: $1 in food assistance saves $2-3 in healthcare costs
+- Workforce productivity: $20-40 million annually
+- Social services savings: $15-30 million annually
+- Agricultural sector support: $75-150 million annually
 
-### Funding Sources
+**Net Economic Benefit:**
 
-- Primary: State General Fund ($500-700 million)
-- Federal matching (when available): $100-200 million
-- Supplemental sources (optional): $20-100 million
+- Program cost: $750 million annually (mid-range)
+- Total economic benefits: $1.22 billion - $2.22 billion annually
+- Net benefit: $470 million - $1.47 billion annually
+- **Return on investment: 163-296% annually**
+
+### Funding Sources (Based on NASBO Oregon Budget Data - FY2026-2027)
+
+**Primary Sources:**
+
+- State General Fund: $650-750 million annually ($1.3-1.5 billion biennium)
+  - Represents 3.5-4.0% of biennial General Fund ($37.3 billion)
+  - Uses existing revenue, no new taxes required
+- Federal matching (when available): $100-200 million annually
+- Efficiency savings (built-in): $15-30 million annually
+
+**Supplemental Sources:**
+
+- OLCC Revenue: $26-37 million annually (cannabis + liquor)
+- Lottery Fund: $7-13 million annually
+- Tobacco Tax: $5-15 million annually (optional)
+
+**Budget Context:**
+
+- Total State Budget (2025-2027 biennium): $138.9 billion (NASBO data)
+- General Fund (2025-2027 biennium): $37.3 billion (NASBO data)
+- OFAP represents only 0.93-1.08% of total state budget
+- Highly manageable investment with positive economic returns
 
 ## Key Arguments
 

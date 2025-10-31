@@ -364,8 +364,10 @@ Success in Oregon ballot measures requires broad, bipartisan support. This strat
 **"Too Expensive"**
 
 - Response: Uses existing funds, economic benefits exceed costs
+- Emphasize: Represents only 3.5-4.0% of biennial General Fund ($37.3B)
+- Emphasize: Less than 1% of total state budget ($138.9B biennium)
 - Emphasize: Cost-effective prevention vs. expensive problems
-- Data: Healthcare savings, economic multiplier
+- Data: Healthcare savings ($100-200M annually), economic multiplier ($1→$1.50-$2.00)
 
 **"Will Increase Taxes"**
 

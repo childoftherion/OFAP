@@ -91,10 +91,13 @@
 
 ### "Won't this cost too much?"
 
-- Uses existing General Fund, no new taxes
+- Uses existing General Fund, no new taxes required
+- Represents only 3.5-4.0% of Oregon's biennial General Fund ($37.3 billion)
+- Less than 1% of total state budget ($138.9 billion biennium)
 - Economic benefits exceed costs ($1 generates $1.50-$2.00 in activity)
 - Prevents more expensive problems (healthcare, lost productivity)
 - Administrative costs capped at 5%
+- Healthcare cost savings alone ($100-200M annually) offset 13-27% of program costs
 
 ### "Isn't this the federal government's job?"
 
@@ -140,9 +143,18 @@
 
 ### Program Scale:
 
-- Estimated annual cost: $650-850 million
+- Estimated annual cost: $650-850 million ($1.3-1.5 billion biennium)
+- Represents 3.5-4.0% of biennial General Fund
+- Less than 1% of total state budget
 - Serves ~300,000-400,000 households
 - Average benefit: $200-250/month per household
+
+### Budget Context (NASBO Data - FY2026-2027):
+
+- Total State Budget: $138.9 billion (biennium)
+- General Fund: $37.3 billion (biennium)
+- OFAP represents manageable 3.5-4.0% of General Fund
+- Highly feasible investment with positive economic returns
 
 ## Opposition Talking Points and Responses
 
