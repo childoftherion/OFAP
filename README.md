@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains comprehensive ballot measure proposals and state budget analysis for establishing a **state-funded EBT-style food assistance program** in Oregon. The project addresses the critical food security crisis affecting hundreds of thousands of Oregonians who have lost federal SNAP benefits due to government shutdown.
+This repository contains ballot measure proposals and state budget analysis for establishing a **state-funded EBT-style food assistance program** in Oregon. The project addresses the critical food security crisis affecting hundreds of thousands of Oregonians who have lost federal SNAP benefits due to government shutdown.
 
 ## The Crisis
 
