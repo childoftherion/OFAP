@@ -1,7 +1,5 @@
 # Oregon Food Assistance Program (OFAP) - Ballot Measures & Budget Analysis
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-
 ## Overview
 
 This repository contains ballot measure proposals and state budget analysis for establishing a **state-funded EBT-style food assistance program** in Oregon. The project addresses the critical food security crisis affecting hundreds of thousands of Oregonians who have lost federal SNAP benefits due to government shutdown.
@@ -28,29 +26,32 @@ This project provides:
 
 ```
 Oregon-Food/
-├── README.md                          # This file
-├── LICENSE                            # Public domain dedication
+├── [README.md](README.md)                          # This file
+├── [LICENSE](LICENSE)                            # Public domain dedication
 │
 ├── considerations/                    # Ballot measure proposals and strategies
-│   ├── README.md                      # Overview of ballot measures
-│   ├── proposal-overview.md           # Strategic overview and rationale
-│   ├── measure-1-constitutional-amendment.md    # Constitutional amendment
-│   ├── measure-2-statutory-program-act.md      # Program legislation
-│   ├── measure-3-funding-mechanism.md          # Funding structure
-│   ├── public-support-strategy.md              # Coalition building strategy
-│   ├── implementation-roadmap.md               # Implementation plan
-│   └── key-talking-points.md                   # Campaign messaging
+│   ├── [README.md](considerations/README.md)                      # Overview of ballot measures
+│   ├── [proposal-overview.md](considerations/proposal-overview.md)           # Strategic overview and rationale
+│   ├── [measure-1-constitutional-amendment.md](considerations/measure-1-constitutional-amendment.md)    # Constitutional amendment
+│   ├── [measure-2-statutory-program-act.md](considerations/measure-2-statutory-program-act.md)      # Program legislation
+│   ├── [measure-3-funding-mechanism.md](considerations/measure-3-funding-mechanism.md)          # Funding structure
+│   ├── [public-support-strategy.md](considerations/public-support-strategy.md)              # Coalition building strategy
+│   ├── [implementation-roadmap.md](considerations/implementation-roadmap.md)               # Implementation plan
+│   └── [key-talking-points.md](considerations/key-talking-points.md)                   # Campaign messaging
 │
 └── State-budget/                      # Comprehensive budget analysis
-    ├── README.md                      # Budget analysis overview
-    ├── oregon-budget-overview.md      # 2025-2027 biennium budget summary
-    ├── revenue-sources-analysis.md    # All major revenue sources
-    ├── olcc-revenue-detailed.md       # OLCC (liquor & cannabis) revenue
-    ├── lottery-revenue-analysis.md    # Oregon Lottery revenue
-    ├── alcohol-tax-revenue.md         # Beer, wine, liquor taxes
-    ├── cannabis-tax-revenue.md       # Cannabis/marijuana tax revenue
-    ├── funding-strategies-ofap.md     # OFAP funding recommendations
-    └── official-sources-references.md # Links to official budget documents
+    ├── [README.md](State-budget/README.md)                      # Budget analysis overview
+    ├── [nasbo-budget-data.md](State-budget/nasbo-budget-data.md)           # ⭐ Official budget data from NASBO
+    ├── [oregon-budget-overview.md](State-budget/oregon-budget-overview.md)      # 2025-2027 biennium budget summary
+    ├── [revenue-sources-analysis.md](State-budget/revenue-sources-analysis.md)    # All major revenue sources
+    ├── [olcc-revenue-detailed.md](State-budget/olcc-revenue-detailed.md)       # OLCC (liquor & cannabis) revenue
+    ├── [lottery-revenue-analysis.md](State-budget/lottery-revenue-analysis.md)    # Oregon Lottery revenue
+    ├── [alcohol-tax-revenue.md](State-budget/alcohol-tax-revenue.md)         # Beer, wine, liquor taxes
+    ├── [cannabis-tax-revenue.md](State-budget/cannabis-tax-revenue.md)       # Cannabis/marijuana tax revenue
+    ├── [comprehensive-funding-analysis.md](State-budget/comprehensive-funding-analysis.md) # Complete funding analysis
+    ├── [funding-recommendations-summary.md](State-budget/funding-recommendations-summary.md) # Executive summary
+    ├── [funding-strategies-ofap.md](State-budget/funding-strategies-ofap.md)     # OFAP funding recommendations
+    └── [official-sources-references.md](State-budget/official-sources-references.md) # Links to official budget documents
 ```
 
 ## Key Components
@@ -84,15 +85,17 @@ Three complementary ballot measures designed to establish the Oregon Food Assist
 
 ### Budget Analysis (`State-budget/`)
 
-Comprehensive analysis of Oregon's state budget and revenue sources:
+Comprehensive analysis of Oregon's state budget and revenue sources based on official [NASBO budget data](State-budget/nasbo-budget-data.md):
 
-- **2025-2027 Biennium Budget**: $138.9 billion total
-- **General Fund**: $37.3 billion (biennium)
-- **Lottery Fund**: $1.8 billion (biennium)
+- **2025-2027 Biennium Budget**: $138.9 billion total ([Source: NASBO](https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/oregon-budget))
+- **General Fund**: $37.3 billion (biennium) ([Source: NASBO](https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/oregon-budget))
+- **Lottery Fund**: $1.8 billion (biennium) ([Source: NASBO](https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/oregon-budget))
 - **OLCC Revenue**: ~$522 million annually (liquor + cannabis)
-- **Reserves**: $3.42 billion (Education Stability + Rainy Day Funds)
+- **Reserves**: $3.42 billion (Education Stability + Rainy Day Funds) ([Source: NASBO](https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/oregon-budget))
 
 **Key Finding**: OFAP ($650-850M annually) represents only 3.5-4.6% of biennial General Fund - **fully manageable** within Oregon's budget structure.
+
+📊 **See**: [`State-budget/nasbo-budget-data.md`](State-budget/nasbo-budget-data.md) for complete official budget data from [NASBO](https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/oregon-budget)
 
 ### Strategic Documents
 
@@ -161,10 +164,12 @@ Comprehensive analysis of Oregon's state budget and revenue sources:
 
 ### For Policy Analysts & Legislators
 
-1. Review `State-budget/funding-strategies-ofap.md` for funding recommendations
-2. Examine `oregon-budget-overview.md` for budget context
-3. Review revenue source analyses for funding options
-4. Check `official-sources-references.md` for authoritative sources
+1. Review [`State-budget/nasbo-budget-data.md`](State-budget/nasbo-budget-data.md) for official NASBO budget data
+2. Review [`State-budget/comprehensive-funding-analysis.md`](State-budget/comprehensive-funding-analysis.md) for complete funding analysis
+3. Review [`State-budget/funding-strategies-ofap.md`](State-budget/funding-strategies-ofap.md) for funding recommendations
+4. Examine [`State-budget/oregon-budget-overview.md`](State-budget/oregon-budget-overview.md) for budget context
+5. Review revenue source analyses for funding options
+6. Check [`State-budget/official-sources-references.md`](State-budget/official-sources-references.md) for authoritative sources
 
 ### For Implementation Planning
 
@@ -179,23 +184,27 @@ Comprehensive analysis of Oregon's state budget and revenue sources:
 - **Liquor Revenue**: ~$352.5 million annually ($705M biennium)
 - **Cannabis Tax Revenue**: ~$169.5 million annually ($339M projected 2025-2027)
 - **Distribution**: Schools (40% cannabis), mental health (20% cannabis), state police (15%), cities/counties
+- **See**: [`State-budget/olcc-revenue-detailed.md`](State-budget/olcc-revenue-detailed.md) for complete analysis
 
 ### Oregon Lottery
 
-- **Biennium Revenue**: $1.8 billion (2025-2027)
+- **Biennium Revenue**: $1.8 billion (2025-2027) ([Source: NASBO](https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/oregon-budget))
 - **Annual**: ~$900 million gross, ~$225-270 million net to state
 - **Distribution**: Primarily education, also economic development, parks, natural resources
+- **See**: [`State-budget/lottery-revenue-analysis.md`](State-budget/lottery-revenue-analysis.md) for complete analysis
 
 ### Alcohol Taxes
 
 - **Beer Tax**: $2.60 per barrel
 - **Wine Tax**: $0.65 per gallon
 - **Liquor**: State monopoly (covered in OLCC revenue)
+- **See**: [`State-budget/alcohol-tax-revenue.md`](State-budget/alcohol-tax-revenue.md) for complete analysis
 
 ### Cannabis/Marijuana Tax
 
 - **Tax Rate**: 17% retail tax
 - **Revenue Growth**: 14.5% increase projected (2023-2025 to 2025-2027)
+- **See**: [`State-budget/cannabis-tax-revenue.md`](State-budget/cannabis-tax-revenue.md) for complete analysis
 
 ## Design for Wide Public Support
 
@@ -280,14 +289,16 @@ Comprehensive analysis of Oregon's state budget and revenue sources:
 
 All budget analysis based on official Oregon state sources:
 
+- **Primary Budget Source**: [National Association of State Budget Officers (NASBO)](https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/oregon-budget)
+  - See [`State-budget/nasbo-budget-data.md`](State-budget/nasbo-budget-data.md) for complete NASBO data documentation
+  - FY2026-2027 Enacted Budget: $138.9 billion total, $37.3 billion General Fund
 - Oregon Legislative Fiscal Office (LFO)
 - Oregon Office of Economic Analysis
 - Oregon Secretary of State (Audits Division, Blue Book)
 - Oregon Liquor and Cannabis Commission (OLCC)
 - Oregon Lottery Commission
-- National Association of State Budget Officers (NASBO)
 
-See `State-budget/official-sources-references.md` for complete list of official documents and download links.
+See [`State-budget/official-sources-references.md`](State-budget/official-sources-references.md) for complete list of official documents and download links.
 
 ## Contributing
 
@@ -345,7 +356,9 @@ The information provided is based on research and analysis but may need updating
 
 - 📋 [Ballot Measure Overview](considerations/README.md)
 - 💰 [Budget Analysis](State-budget/README.md)
-- 📊 [Funding Strategies](State-budget/funding-strategies-ofap.md)
+- 📊 [NASBO Official Budget Data](State-budget/nasbo-budget-data.md) - Primary source from [NASBO](https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/oregon-budget)
+- 📈 [Comprehensive Funding Analysis](State-budget/comprehensive-funding-analysis.md)
+- 💵 [Funding Strategies](State-budget/funding-strategies-ofap.md)
 - 🎯 [Key Talking Points](considerations/key-talking-points.md)
 - 🗺️ [Implementation Roadmap](considerations/implementation-roadmap.md)
 
@@ -354,6 +367,8 @@ The information provided is based on research and analysis but may need updating
 **Last Updated**: 2025
 
 **Repository**: https://github.com/childoftherion/OFAP
+
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ---
 
