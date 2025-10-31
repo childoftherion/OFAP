@@ -75,21 +75,25 @@ The Legislature may, but is not required to, direct the following revenue source
 
 (a) **OLCC (Oregon Liquor and Cannabis Commission) Revenue Allocation**
 
-- **Amount**: $26-37 million annually ($52-74 million biennium)
-  - Cannabis Tax (5-7% allocation): $8-12 million annually
+- **Amount**: $32-47 million annually ($64-94 million biennium)
+  - Cannabis Tax (5-7% allocation): ~$14.5-21.7 million annually (updated based on actual revenue)
   - Liquor Revenue (5-7% allocation): $18-25 million annually
 - **Feasibility**: MODERATE-HIGH - Requires legislative approval but has logical connection
 - **Political Support**: MODERATE-HIGH
   - Health connection: Cannabis and liquor taxes already fund health programs
-  - Growing revenue source: Cannabis tax increasing 14.5% biennium
+  - Stable revenue source: Cannabis tax has stabilized around $290-310M annually
   - Business support: Minimal impact on industry
-- **Current Revenue Base**:
-  - Cannabis Tax: ~$169.5 million annually (2025-2027 projection)
+- **Current Revenue Base** (Updated Based on Official DOR Data - October 2025):
+  - Cannabis Tax: ~$290-310 million annually (2024-2025 actuals)
+    - **2024 Actual**: $312.6 million (based on official quarterly distribution data)
+    - **2025 Projected**: ~$289.6 million (based on first 3 quarters)
     - **Data Source**: Oregon Department of Revenue - [Oregon Marijuana Tax Statistics](https://www.oregon.gov/dor/gov-research/pages/default.aspx)
+    - **⚠️ Critical Update**: Revenue is significantly higher than previous estimates
+    - See [Sources Analysis](../State-budget/sources/marijuana-tax-analysis.md) for detailed breakdown
     - Monthly tax receipts and quarterly distribution reports available
     - Detailed statistical reports on taxable marijuana sales and businesses (2016+)
   - Liquor Revenue: ~$352.5 million annually
-  - Combined: ~$522 million annually
+  - Combined: ~$642-662 million annually (up from previous ~$522M estimate)
 - **Allocation Rationale**: Links health-related revenue to food security, which directly impacts health outcomes
 - **Mechanism**: Legislative action to allocate percentage of OLCC net revenues
 
@@ -159,7 +163,7 @@ The following table outlines specific funding amounts from all sources, prioriti
 | ---------------------- | ------------- | --------------- | ------------------ | ------------- | ---------------- |
 | **General Fund**       | $650-750M     | $1.3-1.5B       | ⭐⭐⭐ HIGHEST     | VERY HIGH     | Required         |
 | **Efficiency Savings** | $15-30M       | $30-60M         | ⭐⭐⭐ HIGH        | VERY HIGH     | Built-in         |
-| **OLCC Revenue**       | $26-37M       | $52-74M         | ⭐⭐ MODERATE-HIGH | MODERATE-HIGH | Optional         |
+| **OLCC Revenue**       | $32-47M       | $64-94M         | ⭐⭐ MODERATE-HIGH | MODERATE-HIGH | Optional         |
 | **Lottery Fund**       | $7-13M        | $14-26M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
 | **Lodging Tax**        | $15-30M       | $30-60M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
 | **Tobacco Tax**        | $5-15M        | $10-30M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
@@ -522,7 +526,7 @@ Federal SNAP benefits are distributed directly to recipients through federal pro
 
 **Tier 2 Sources (Moderate Support - Optional):**
 
-- OLCC Revenue ($26-37M): Health connection, growing revenue, moderate-high support
+- OLCC Revenue ($32-47M): Health connection, stable revenue source (~$290-310M cannabis tax annually), moderate-high support
 - Lottery Fund ($7-13M): Public program precedent, moderate support
 - Tobacco Tax ($5-15M): Health connection, optional supplement
 
@@ -692,9 +696,12 @@ Federal SNAP benefits ($100-200 million annually when operational) are distribut
 
 **Tier 2 - Supplemental Sources (Moderate Bipartisan Support):**
 
-- **OLCC Revenue**: $26-37 million annually
-  - Cannabis tax (5-7%): $8-12 million
+- **OLCC Revenue**: $32-47 million annually (updated based on actual revenue data)
+  - Cannabis tax (5-7%): ~$14.5-21.7 million (5-7% of ~$290-310M actual revenue)
+    - **2024 Actual**: $312.6M | **2025 Projected**: ~$289.6M
     - **Data Source**: [Oregon Department of Revenue - Marijuana Tax Statistics](https://www.oregon.gov/dor/gov-research/pages/default.aspx)
+    - **⚠️ Updated**: Revenue significantly higher than previous $169.5M estimate
+    - See [Sources Analysis](../State-budget/sources/marijuana-tax-analysis.md) for details
   - Liquor revenue (5-7%): $18-25 million
   - Requires legislative approval
 - **Lottery Fund**: $7-13 million annually
@@ -846,6 +853,8 @@ The funding estimates and revenue projections in this measure are based on offic
 - **Oregon Legislative Fiscal Office (LFO)**: Budget analysis and projections
 - **Oregon Office of Economic Analysis (OEA)**: Revenue forecasts and economic data
 - **Oregon Liquor and Cannabis Commission (OLCC)**: Cannabis and liquor revenue data
+  - **⚠️ Updated**: Cannabis tax revenue is ~$290-310M annually (2024-2025 actuals), not previous $169.5M estimate
+  - See [Sources Analysis](../State-budget/sources/marijuana-tax-analysis.md) for official DOR data breakdown
 
 ### Contact Information
 

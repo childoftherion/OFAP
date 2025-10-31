@@ -73,9 +73,11 @@ Creates a constitutionally protected permanent fund from existing cannabis tax r
 - Private cannabis industry continues operating unchanged
 
 **Revenue Source:**
-- 10% of existing cannabis tax revenue ($16.95M annually)
+
+- 10% of existing cannabis tax revenue (~$29-31M annually, based on actual 2024-2025 data)
 - All existing licensing fees ($20-30M annually)
-- Total: $37-47 million annually (100% from existing revenues)
+- Total: ~$49-61 million annually (100% from existing revenues)
+- **⚠️ Updated**: Revenue figures reflect official DOR data showing ~$290-310M annual tax distributions (not previous $169.5M estimate)
 
 **See**: [Oregon Cannabis Permanent Fund Proposal](../Examples/Oregon-proposals/oregon-cannabis-permanent-fund.md) for detailed analysis.
 
@@ -191,8 +193,11 @@ Federal SNAP benefits ($100-200 million annually when operational) are distribut
 
 **Supplemental Sources:**
 
-- OLCC Revenue: $26-37 million annually (cannabis + liquor)
+- OLCC Revenue: $32-47 million annually (cannabis + liquor)
+  - Cannabis tax: ~$14.5-21.7M (5-7% of ~$290-310M actual revenue)
+  - Liquor revenue: $18-25M (5-7% of ~$352.5M)
   - Cannabis tax data: [Oregon Department of Revenue - Marijuana Tax Statistics](https://www.oregon.gov/dor/gov-research/pages/default.aspx)
+  - **⚠️ Updated**: Based on official DOR data showing actual cannabis tax ~$290-310M annually (2024-2025), not previous $169.5M estimate
 - Lottery Fund: $7-13 million annually
 - Transient Lodging Tax: $15-30 million annually (optional)
   - Data: [Oregon Department of Revenue - Lodging Tax Report](https://www.oregon.gov/dor/gov-research/pages/default.aspx)
@@ -342,11 +347,12 @@ These proposals are living documents and should be refined based on:
 
 ---
 
-**Note**: These proposals are designed to have broad public support in Oregon. They incorporate lessons from successful ballot measures (Measure 111) and avoid pitfalls of failed measures (Measure 118). 
+**Note**: These proposals are designed to have broad public support in Oregon. They incorporate lessons from successful ballot measures (Measure 111) and avoid pitfalls of failed measures (Measure 118).
 
 **Measure Relationships:**
 
 - **Measures 1-3**: Work together to establish Oregon Food Assistance Program (OFAP)
+
   - Measure 1: Constitutional framework
   - Measure 2: Program implementation
   - Measure 3: Funding mechanism (General Fund based)

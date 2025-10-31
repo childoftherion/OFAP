@@ -129,17 +129,18 @@ The Oregon Cannabis Permanent Fund is funded **entirely from existing revenues**
 - **17% Retail Tax**: Existing tax rate on recreational cannabis sales - NO INCREASE
 - **Licensing Fees**: Existing annual fees from cannabis businesses - NO NEW FEES
 - **Application Fees**: Existing fees for new applications and renewals - NO NEW FEES
-- **All Revenues Already Collected**: OLCC currently collects $195-210 million annually
+- **All Revenues Already Collected**: OLCC currently collects ~$315-350 million annually (based on actual 2024-2025 data)
 
-**Revenue Figures (2025-2027 Projections):**
+**Revenue Figures (Updated Based on Official DOR Data - October 2025):**
 
-- **Cannabis Tax Revenue (17% tax)**: $169.5 million annually
-  - 2023-2025 Actual: $148 million annually
-  - 2025-2027 Projected: $169.5 million annually
-  - Growth Rate: 14.5% increase projected
-- **Licensing Fees**: $20-30 million annually
-- **Application Fees & Other**: $5-10 million annually
-- **Total OLCC Cannabis Revenue**: $195-210 million annually
+- **Cannabis Tax Revenue (17% tax)**: ~$290-310 million annually (2024-2025 actuals)
+  - **2024 Actual**: $312.6 million (based on official DOR quarterly distribution data)
+  - **2025 Projected**: ~$289.6 million (based on first 3 quarters)
+  - **Trend**: Revenue peaked in 2021 at $374.7M, now stabilizing around $290-310M annually
+  - **See**: [Sources Analysis](../State-budget/sources/marijuana-tax-analysis.md) for detailed breakdown
+- **Licensing Fees**: $20-30 million annually (estimated, not in distribution data)
+- **Application Fees & Other**: $5-10 million annually (estimated)
+- **Total OLCC Cannabis Revenue**: ~$315-350 million annually
 
 **Source**: Oregon Department of Revenue - Cannabis Tax Statistics, OLCC Budget Documents
 
@@ -147,13 +148,13 @@ The Oregon Cannabis Permanent Fund is funded **entirely from existing revenues**
 
 **Recommended Allocation (NO NEW TAXES):**
 
-- **10% of Existing Tax Revenue**: $16.95 million annually (10% of $169.5M)
+- **10% of Existing Tax Revenue**: ~$29-31 million annually (10% of $290-310M, based on actual 2024-2025 data)
   - Source: Reallocate small percentage from existing distributions
   - Impact: Minimal reduction (each program reduced by 10%)
 - **All Existing Licensing Fees**: $20-30 million annually
   - Source: Existing fees, reallocated from OLCC operations
   - Impact: OLCC operations funded from alternative source
-- **Total Annual Deposits**: $37-47 million annually
+- **Total Annual Deposits**: ~$49-61 million annually (10% tax revenue + all licensing fees)
 - **No New Taxes**: 100% from existing revenues already being collected
 
 **Tax Impact: ZERO**
@@ -229,7 +230,7 @@ Cannabis tax revenue is statutorily mandated to be distributed as follows (2025-
 **Response**:
 
 - Only 10% allocation minimizes impact on existing programs
-- Education still receives 90% of current funding ($61M vs. $67.8M)
+- Education still receives 90% of current funding (~$112M vs. ~$125M annually based on actual 2024 data)
 - Permanent fund provides long-term benefits that outweigh short-term reduction
 - Future generations benefit from permanent fund growth
 
@@ -309,9 +310,9 @@ Cannabis tax revenue is statutorily mandated to be distributed as follows (2025-
    - Hire professional investment staff
 
 3. **Revenue Allocation**:
-   - Begin automatic deposits of 10% of tax revenue ($16.95M annually)
+   - Begin automatic deposits of 10% of tax revenue (~$29-31M annually, based on actual 2024-2025 data)
    - Begin automatic deposits of all licensing fees ($20-30M annually)
-   - Total: $37-47 million annually deposited to fund
+   - Total: ~$49-61 million annually deposited to fund
 
 ### Phase 3: Fund Growth (Years 2+)
 
@@ -326,7 +327,7 @@ Cannabis tax revenue is statutorily mandated to be distributed as follows (2025-
 
 **Assumptions:**
 
-- Annual deposits: $37-47 million (10% tax revenue + all fees)
+- Annual deposits: ~$49-61 million (10% tax revenue + all fees, based on actual 2024-2025 data)
 - Investment returns: 6-7% annually
 - No principal withdrawals: Principal protected by constitution
 - Revenue growth: Cannabis market continues growing
@@ -482,7 +483,10 @@ The Oregon Cannabis Permanent Fund Amendment would create a constitutionally pro
 
 - Existing 17% Tax Rate: No tax increase required
 - Existing Licensing Fees: Redirection of fees already being collected
-- Recommended Allocation: 10% of tax revenue ($16.95M) + all fees ($20-30M) = $37-47M annually
+- Recommended Allocation: 10% of tax revenue (~$29-31M, based on actual 2024-2025 data) + all fees ($20-30M) = ~$49-61M annually
+
+**⚠️ IMPORTANT UPDATE**: Revenue figures have been updated based on official Oregon Department of Revenue data downloaded October 2025. Actual cannabis tax distributions are ~$290-310M annually (2024-2025), significantly higher than previous estimates. See [Sources Analysis](../State-budget/sources/marijuana-tax-analysis.md) for detailed breakdown.
+
 - 100% from Existing Revenue: No new taxes, no tax increases, no new fees
 
 This proposal applies the Alaska Permanent Fund model to cannabis revenues while maintaining Oregon's existing commercial cannabis industry structure and **existing 17% tax rate**. The strong constitutional protections ensure the fund cannot be raided to replace existing state funding obligations, guaranteeing that earnings benefit Oregonians directly for generations to come.

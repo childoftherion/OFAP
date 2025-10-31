@@ -1,0 +1,319 @@
+{
+  "timestamp": "2025-10-31T16:13:08.483918",
+  "tax_receipts": {
+    "headers": [
+      "Marijuana Tax Net Receipts: Estimated State and Local"
+    ],
+    "data": [
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "*Note 1: Starting February 2017, the split between state and local is estimated due to the collection of state and local taxes together. "
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "The first local taxes collected by the Department of Revenue took effect during January 2017 and were due in February 2017."
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "Only some local marijuana taxes are collected by the state; those collected locally are not counted here."
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "Actual state and local amounts will be known when quarterly tax returns are filed."
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "*Note 2: Amounts are payments made by businesses during the month, rather than tax liability."
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "Liability is determined by a tax return."
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "Amounts cannot be directly translated to sales made by businesses to consumers."
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "Retailers retain 2 percent of taxes collected to reimburse the cost of tax collection."
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "Payments might have been made later than when they were due."
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "*Note 3: Amounts for overall total are taken from the Oregon Department of Revenue Monthly Financial Statement. "
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "*Note 4: Receipts are net of any refunds to taxpayers."
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "Monthly State and Local Tax Receipts"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "Month"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2016-02-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2016-03-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2016-04-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2016-05-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2016-06-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2016-07-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2016-08-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2016-09-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2016-10-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2016-11-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2016-12-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2017-01-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2017-02-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2017-03-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2017-04-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2017-05-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2017-06-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2017-07-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2017-08-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2017-09-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2017-10-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2017-11-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2017-12-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2018-01-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2018-02-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2018-03-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2018-04-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2018-05-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2018-06-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2018-07-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2018-08-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2018-09-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2018-10-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2018-11-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2018-12-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2019-01-01 00:00:00"
+      },
+      {
+        "Marijuana Tax Net Receipts: Estimated State and Local": "2019-02-01 00:00:00"
+      }
+    ],
+    "total_rows": 80
+  },
+  "revenue_distributions": {
+    "headers": [
+      "Oregon Marijuana Tax: Distribution Information"
+    ],
+    "data": [
+      {
+        "Oregon Marijuana Tax: Distribution Information": "Distribution of State Tax Collected:"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "Calendar Year Quarter"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2017 Q34"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2017 Q44"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2018 Q1"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2018 Q21"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2018 Q3"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2018 Q4"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2019 Q1"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2019 Q2"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2017-19 Holdover"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2019 Q3"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2019 Q4"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2020 Q1"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2020 Q2"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2020 Q3"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2020 Q4"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2021 Q13"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2021 Q2"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2021 Q3"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2021 Q4"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2022 Q1"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2022 Q2"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2022 Q3"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2022 Q4"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2023 Q1"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2023 Q2"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2023 Q3"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2023 Q4"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2024 Q1"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2024 Q2"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2024 Q3"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2024 Q4"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2025 Q1"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2025 Q2"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "2025 Q3"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "*Note 1: Beginning with the 2018 Q2 distribution, funds previously designated for the same purposes as the Mental Health "
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "Alcoholism and Drug Services Account are instead to be used solely for mental health treatment or for alcohol and drug abuse"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "     prevention, early intervention and treatment, based on Senate Bill 1555 (2018) and House Bill 2377 (2019)."
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "*Note 2: Prior to Measure 110, distributions to the State School Fund, Oregon Health Authority, and Oregon State Police were "
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "limited by legislatively approved budgets for those entities. The excess amounts were held over and distributed during the"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "next biennium."
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "*Note 3: Beginning with the 2021 Q1 distribution, Measure 110 specifies that $11.25 million per quarter be distributed according to "
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "the previous percentages. Amounts above $11.25 million per quarter are distributed to the Drug Treatment and Recovery "
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "Services Fund. Beginning in 2023, the $11.25 million threshold is adjusted annually for inflation, in accordance with"
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "House Bill 4056 (2022)."
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "*Note 4: In 2017 Q3 $16,060,272 of the 20% distributed to cities and counties was distributed by population and $937,946 was "
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "distributed by opt-in. In 2017 Q4 $645,382 of the 20% distributed to cities and counties was distributed by population and "
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "$3,690,648 was distributed by opt-in. In all other quarters the entire 20% distributed to cities and counties was by opt-in."
+      },
+      {
+        "Oregon Marijuana Tax: Distribution Information": "Distribution of Local Tax Collected by State:"
+      }
+    ],
+    "total_rows": 87
+  }
+}
