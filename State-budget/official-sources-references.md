@@ -109,11 +109,28 @@ This document provides direct links to official Oregon state budget documents, r
 
 ## Department of Revenue
 
-### Tax Revenue Reports
+### Tax Revenue Reports and Research
 
 - **Website**: https://www.oregon.gov/DOR/Pages/index.aspx
+- **Research and Statistics Page**: https://www.oregon.gov/dor/gov-research/pages/default.aspx
 - **Tax Statistics**: Annual tax collection reports
 - **Revenue Forecasts**: Quarterly updates
+
+### Specific Research Reports Available
+
+- **Oregon Marijuana Tax Statistics**: Monthly tax receipts, quarterly distributions, statistical reports on taxable marijuana sales and businesses
+- **Oregon Lodging Tax Report**: State transient lodging tax statistics by region and accommodation type, taxpayer characteristics
+- **Corporate Activity Tax Statistics**: Annual corporate tax data
+- **Personal Income Tax Statistics**: Individual tax collection data
+- **Corporate Excise and Income Tax Statistics**: Business tax data
+- **Tax Expenditure Reports**: Analysis of tax credits, exemptions, and deductions
+- **Property Tax Statistics**: Property tax data and analysis
+
+**Contact Information:**
+
+- Phone: 503-945-8383
+- Email: dor.research@dor.oregon.gov
+- Address: 955 Center St NE, Salem, OR 97302
 
 ## Oregon State Library Digital Collections
 

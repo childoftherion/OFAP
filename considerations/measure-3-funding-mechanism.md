@@ -12,7 +12,7 @@
 
 ## Summary
 
-This measure establishes the Oregon Food Security Fund as a dedicated funding source for the Oregon Food Assistance Program. The fund receives revenue from multiple sources including state budget allocations, efficiency savings, and optional revenue enhancements. An independent oversight board ensures fiscal responsibility and program effectiveness.
+This measure establishes the Oregon Food Security Fund as a dedicated funding source for the Oregon Food Assistance Program. The fund receives revenue only from state sources including state budget allocations, efficiency savings, and optional revenue enhancements. Federal SNAP benefits are distributed directly to recipients through federal programs and are NOT deposited into this fund. An independent oversight board ensures fiscal responsibility and program effectiveness.
 
 ## Full Text (Proposed)
 
@@ -52,19 +52,10 @@ The Oregon Food Security Fund shall receive moneys from the following sources, l
 - **Flexibility**: May be adjusted based on economic conditions and revenue availability
 - **Rationale**: Represents manageable percentage of state budget, leverages existing tax revenue structure
 
-(b) **Federal Matching Funds**
+**Note on Federal Funds (Not a Revenue Source for Oregon Food Security Fund):**
+Federal funds for food assistance (including SNAP benefits) are distributed directly to eligible individuals through federal programs and are NOT deposited into the Oregon Food Security Fund. Federal benefits are provided separately from state benefits, similar to how federal SNAP currently operates. The Oregon Food Security Fund contains only state revenues for state-funded food assistance.
 
-- **Amount**: $100-200 million annually (when federal SNAP operational)
-- **Feasibility**: HIGH - Maximizes federal funding when available
-- **Political Support**: HIGH - No state cost when federal funds available
-- **Mechanism**:
-  - Federal funds received for food assistance programs
-  - SNAP administrative funds when available
-  - Other federal nutrition program funds
-  - USDA nutrition program matching funds
-- **Strategic Benefit**: Reduces state General Fund requirement by 13-27% when available
-- **Independence**: Program operations continue even if federal funds are unavailable
-- **Coordination**: Department shall maximize federal matching opportunities
+When federal SNAP is operational, eligible households receive federal benefits directly through the federal program. The Oregon Food Assistance Program provides state-funded benefits from the Oregon Food Security Fund to supplement or replace federal benefits when federal funding is unavailable. This dual-system approach ensures continuity of benefits while maintaining clear separation between federal and state funding streams.
 
 (c) **Efficiency Savings and Revenue Recovery**
 
@@ -94,12 +85,15 @@ The Legislature may, but is not required to, direct the following revenue source
   - Business support: Minimal impact on industry
 - **Current Revenue Base**:
   - Cannabis Tax: ~$169.5 million annually (2025-2027 projection)
+    - **Data Source**: Oregon Department of Revenue - [Oregon Marijuana Tax Statistics](https://www.oregon.gov/dor/gov-research/pages/default.aspx)
+    - Monthly tax receipts and quarterly distribution reports available
+    - Detailed statistical reports on taxable marijuana sales and businesses (2016+)
   - Liquor Revenue: ~$352.5 million annually
   - Combined: ~$522 million annually
 - **Allocation Rationale**: Links health-related revenue to food security, which directly impacts health outcomes
 - **Mechanism**: Legislative action to allocate percentage of OLCC net revenues
 
-(b) **State Lottery Fund Allocation** ⭐ MODERATE BIPARTISAN SUPPORT
+(b) **State Lottery Fund Allocation**
 
 - **Amount**: $7-13 million annually ($14-26 million biennium)
 - **Percentage**: 3-5% of net lottery revenue
@@ -114,7 +108,23 @@ The Legislature may, but is not required to, direct the following revenue source
 - **Allocation Rationale**: Expands lottery benefits to include food security, maintains primary education funding
 - **Mechanism**: Ballot measure amendment or legislative allocation
 
-(c) **Tobacco Tax Revenue Allocation**
+(c) **Transient Lodging Tax (State Lodging Tax)** (Optional)
+
+- **Amount**: $15-30 million annually (if approved, estimated based on 0.5-1% surcharge)
+- **Feasibility**: MODERATE - Currently funds tourism-related programs
+- **Political Support**: MODERATE
+  - Tourism industry: May express concern about new allocation
+  - Rural communities: Tourism benefits distributed statewide
+  - Connection: Tourism benefits from healthy, stable population
+- **Current Revenue Base**:
+  - **Data Source**: Oregon Department of Revenue - [Oregon Lodging Tax Report](https://www.oregon.gov/dor/gov-research/pages/default.aspx)
+  - State Transient Lodging Tax statistics by region and accommodation type available
+  - Detailed reports on taxpayer characteristics and program description
+  - Revenue varies by region and season
+- **Allocation Rationale**: Tourism benefits from healthy, stable population; minimal impact on tourism industry
+- **Mechanism**: Legislative allocation (not required)
+
+(d) **Tobacco Tax Revenue Allocation** (Optional)
 
 - **Amount**: $5-15 million annually (if approved)
 - **Feasibility**: MODERATE - Currently allocated to health programs
@@ -122,6 +132,9 @@ The Legislature may, but is not required to, direct the following revenue source
   - Health connection: Tobacco use correlates with food insecurity
   - Public health advocates: May support connection to food security
   - Challenge: Reduces funding for other health programs
+- **Data Sources**:
+  - Oregon Department of Revenue - [Research Reports and Statistics](https://www.oregon.gov/dor/gov-research/pages/default.aspx)
+  - Tax Expenditure reports available
 - **Allocation Rationale**: Tobacco use correlates with food insecurity, creating logical programmatic link
 - **Mechanism**: Legislative allocation (not required)
 
@@ -142,15 +155,17 @@ This section provides detailed funding mechanisms, economic impact data, and cos
 
 The following table outlines specific funding amounts from all sources, prioritized by bipartisan support likelihood:
 
-| Funding Source         | Annual Amount   | Biennium Amount | Bipartisan Support | Feasibility   | Status           |
-| ---------------------- | --------------- | --------------- | ------------------ | ------------- | ---------------- |
-| **General Fund**       | $650-750M       | $1.3-1.5B       | ⭐⭐⭐ HIGHEST     | VERY HIGH     | Required         |
-| **Federal Matching**   | $100-200M       | $200-400M       | ⭐⭐⭐ HIGH        | HIGH          | When available   |
-| **Efficiency Savings** | $15-30M         | $30-60M         | ⭐⭐⭐ HIGH        | VERY HIGH     | Built-in         |
-| **OLCC Revenue**       | $26-37M         | $52-74M         | ⭐⭐ MODERATE-HIGH | MODERATE-HIGH | Optional         |
-| **Lottery Fund**       | $7-13M          | $14-26M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
-| **Tobacco Tax**        | $5-15M          | $10-30M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
-| **TOTAL AVAILABLE**    | **$803-1,045M** | **$1.61-2.09B** |                    |               | **Exceeds need** |
+| Funding Source         | Annual Amount | Biennium Amount | Bipartisan Support | Feasibility   | Status           |
+| ---------------------- | ------------- | --------------- | ------------------ | ------------- | ---------------- |
+| **General Fund**       | $650-750M     | $1.3-1.5B       | ⭐⭐⭐ HIGHEST     | VERY HIGH     | Required         |
+| **Efficiency Savings** | $15-30M       | $30-60M         | ⭐⭐⭐ HIGH        | VERY HIGH     | Built-in         |
+| **OLCC Revenue**       | $26-37M       | $52-74M         | ⭐⭐ MODERATE-HIGH | MODERATE-HIGH | Optional         |
+| **Lottery Fund**       | $7-13M        | $14-26M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
+| **Lodging Tax**        | $15-30M       | $30-60M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
+| **Tobacco Tax**        | $5-15M        | $10-30M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
+| **TOTAL AVAILABLE**    | **$718-895M** | **$1.44-1.79B** |                    |               | **Exceeds need** |
+
+**Note:** Federal SNAP benefits are distributed directly to recipients through federal programs and are NOT included in this table, as they are not deposited into the Oregon Food Security Fund. When federal SNAP is operational, households receive federal benefits separately from state benefits.
 
 **Minimum Viable Funding** (High bipartisan support only):
 
@@ -161,10 +176,11 @@ The following table outlines specific funding amounts from all sources, prioriti
 **Recommended Funding** (Primary + high-support supplements):
 
 - General Fund: $700M annually
-- Federal Matching: $100M annually (when available)
 - Efficiency Savings: $20M annually
 - OLCC Revenue: $30M annually
-- **Total: $850M annually** - Meets mid-range with cushion ✅
+- **Total: $750M annually** - Meets mid-range with cushion ✅
+
+**Note:** This represents state-funded benefits only. When federal SNAP is operational, eligible households receive federal benefits directly through the federal program in addition to state benefits, providing total benefit levels that exceed these state-only amounts.
 
 (b) **Economic Multiplier Effects**
 
@@ -354,7 +370,7 @@ Funding levels may be adjusted based on:
 (a) Economic recession triggers (automatic increase)
 (b) Food price inflation (benefit adjustments)
 (c) Caseload changes (demographic shifts)
-(d) Federal funding availability (when matching funds available, reduce state share)
+(d) Federal funding availability (when federal SNAP operational, state benefits may be reduced to avoid duplication, but state fund continues operating)
 
 **412.240 - Minimum Funding Level**
 The Legislature shall appropriate no less than the amount necessary to serve all eligible households at the minimum benefit level, as determined by the Department and validated by the oversight board.
@@ -428,7 +444,7 @@ The board shall develop and maintain:
 The Department and board shall:
 (a) Leverage existing SNAP infrastructure where possible
 (b) Use technology to reduce administrative burden
-(c) Coordinate with federal programs to maximize federal matching
+(c) Coordinate with federal programs to ensure seamless service (federal benefits distributed separately)
 (d) Implement fraud prevention to reduce waste
 (e) Streamline application and certification processes
 
@@ -463,10 +479,12 @@ For the first biennium following passage:
 (c) Phased funding as program rolls out
 
 **412.315 - Federal Fund Coordination**
-(a) When federal SNAP funds are available, state funds may supplement
-(b) When federal funds are unavailable, state funds provide full support
-(c) Department shall maximize federal matching when possible
-(d) Federal funds received for food assistance shall be deposited in fund
+(a) Federal SNAP benefits are distributed directly to eligible individuals through the federal program, separate from the Oregon Food Security Fund
+(b) The Oregon Food Assistance Program provides state-funded benefits that supplement or replace federal benefits when federal funds are unavailable
+(c) When federal SNAP funds are available, eligible households may receive both federal and state benefits (federal benefits distributed directly, state benefits from Oregon Food Security Fund)
+(d) When federal funds are unavailable, the Oregon Food Security Fund provides full support through state-funded benefits
+(e) Federal funds for food assistance shall NOT be deposited into the Oregon Food Security Fund; federal benefits are distributed directly to recipients through federal programs
+(f) The Department shall coordinate program administration to ensure seamless service for households receiving both federal and state benefits
 
 ## Rationale for Funding Approach
 
@@ -485,8 +503,10 @@ For the first biennium following passage:
 **Tier 1 Sources (Highest Support - Required):**
 
 - General Fund ($650-750M annually): Uses existing revenue, appeals to fiscal conservatives and progressives
-- Federal Matching ($100-200M when available): High support, reduces state cost
 - Efficiency Savings ($15-30M): Built-in, demonstrates fiscal responsibility
+
+**Note on Federal Funds:**
+Federal SNAP benefits are distributed directly to recipients through federal programs and do not flow through the Oregon Food Security Fund. When federal SNAP is operational, eligible households receive federal benefits separately from state-funded benefits, providing comprehensive coverage through dual systems.
 
 **Tier 2 Sources (Moderate Support - Optional):**
 
@@ -534,10 +554,10 @@ For the first biennium following passage:
    - Supports local businesses and farmers
 
 4. **Federal Coordination**
-   - Maximizes federal matching when available
-   - Provides backup when federal funds unavailable
-   - Leverages existing infrastructure
-   - No duplication of services
+   - Federal benefits distributed directly to recipients (separate from state fund)
+   - State fund provides backup when federal funds unavailable
+   - Leverages existing infrastructure for administrative efficiency
+   - Coordinates to avoid duplication while maintaining separate funding streams
 
 ## Arguments for Support
 
@@ -651,27 +671,42 @@ Based on serving 757,000 Oregonians at 185% poverty level:
   - Represents 3.5-4.0% of biennial General Fund
   - Uses existing revenue, no new taxes required
   - Broad bipartisan appeal
-- **Federal Matching**: $100-200 million annually (when available)
-  - Reduces state General Fund requirement by 13-27%
-  - High support when federal funds operational
 - **Efficiency Savings**: $15-30 million annually
   - Built into program design
   - No additional appropriations needed
+
+**Important Note on Federal Funds:**
+Federal SNAP benefits ($100-200 million annually when operational) are distributed directly to eligible individuals through the federal program and are NOT deposited into the Oregon Food Security Fund. The state fund operates independently, providing state-funded benefits. When federal SNAP is available, households may receive both federal and state benefits through separate distribution systems.
 
 **Tier 2 - Supplemental Sources (Moderate Bipartisan Support):**
 
 - **OLCC Revenue**: $26-37 million annually
   - Cannabis tax (5-7%): $8-12 million
+    - **Data Source**: [Oregon Department of Revenue - Marijuana Tax Statistics](https://www.oregon.gov/dor/gov-research/pages/default.aspx)
   - Liquor revenue (5-7%): $18-25 million
   - Requires legislative approval
 - **Lottery Fund**: $7-13 million annually
   - 3-5% of net lottery revenue
   - Requires ballot measure or legislative approval
+- **Transient Lodging Tax**: $15-30 million annually (optional)
+  - **Data Source**: [Oregon Department of Revenue - Lodging Tax Report](https://www.oregon.gov/dor/gov-research/pages/default.aspx)
+  - State transient lodging tax statistics available by region and accommodation type
+  - Legislative allocation if approved
 - **Tobacco Tax**: $5-15 million annually (optional)
+  - **Data Source**: [Oregon Department of Revenue - Research Reports](https://www.oregon.gov/dor/gov-research/pages/default.aspx)
   - Currently allocated to health programs
   - Legislative allocation if approved
 
-**Total Available Funding**: $803-1,045 million annually (exceeds program need)
+**Total Available Funding**: $718-895 million annually (exceeds program need)
+
+**Note on Department of Revenue Data:**
+The Oregon Department of Revenue provides comprehensive tax statistics and research reports including:
+
+- [Oregon Marijuana Tax Statistics](https://www.oregon.gov/dor/gov-research/pages/default.aspx) - Monthly tax receipts, quarterly distributions, and statistical reports
+- [Oregon Lodging Tax Report](https://www.oregon.gov/dor/gov-research/pages/default.aspx) - State transient lodging tax statistics by region and accommodation type
+- [Corporate Activity Tax Statistics](https://www.oregon.gov/dor/gov-research/pages/default.aspx) - Corporate tax data
+- [Personal Income Tax Statistics](https://www.oregon.gov/dor/gov-research/pages/default.aspx) - Individual tax data
+- [Tax Expenditure Reports](https://www.oregon.gov/dor/gov-research/pages/default.aspx) - Analysis of tax credits and exemptions
 
 ### Comprehensive Economic Return Analysis
 
@@ -744,3 +779,66 @@ If initial polling shows funding concerns:
 2. Eliminate optional tax sources from measure text
 3. Emphasize General Fund reallocation only
 4. Add stronger language prohibiting tax increases
+
+## Data Sources and References
+
+### Oregon Department of Revenue Research and Statistics
+
+The funding estimates and revenue projections in this measure are based on official state tax data and research reports:
+
+**Primary Data Source**: [Oregon Department of Revenue - Research Reports and Statistics](https://www.oregon.gov/dor/gov-research/pages/default.aspx)
+
+**Key Reports Referenced:**
+
+1. **Oregon Marijuana Tax Statistics**
+
+   - Monthly tax receipts (PDF and XLSX formats)
+   - Quarterly revenue distribution reports
+   - Statistical reports on taxable marijuana sales and businesses (2016+)
+   - Available at: https://www.oregon.gov/dor/gov-research/pages/default.aspx
+
+2. **Oregon Lodging Tax Report**
+
+   - State Transient Lodging Tax Return Statistics by Region
+   - Statistics by Accommodation Type
+   - Program description and taxpayer characteristics
+   - Available at: https://www.oregon.gov/dor/gov-research/pages/default.aspx
+
+3. **Corporate Activity Tax Statistics**
+
+   - Annual corporate tax data and analysis
+   - Available at: https://www.oregon.gov/dor/gov-research/pages/default.aspx
+
+4. **Personal Income Tax Statistics**
+
+   - Individual tax collection data
+   - Available at: https://www.oregon.gov/dor/gov-research/pages/default.aspx
+
+5. **Corporate Excise and Income Tax Statistics**
+
+   - Business tax data
+   - Available at: https://www.oregon.gov/dor/gov-research/pages/default.aspx
+
+6. **Tax Expenditure Report**
+
+   - Analysis of tax credits, exemptions, and deductions
+   - Available at: https://www.oregon.gov/dor/gov-research/pages/default.aspx
+
+7. **Property Tax Statistics**
+   - Property tax data and analysis
+   - Available at: https://www.oregon.gov/dor/gov-research/pages/default.aspx
+
+### Other Official Sources
+
+- **National Association of State Budget Officers (NASBO)**: Oregon budget data (FY2026-2027)
+- **Oregon Legislative Fiscal Office (LFO)**: Budget analysis and projections
+- **Oregon Office of Economic Analysis (OEA)**: Revenue forecasts and economic data
+- **Oregon Liquor and Cannabis Commission (OLCC)**: Cannabis and liquor revenue data
+
+### Contact Information
+
+**Oregon Department of Revenue Research Section**
+
+- Phone: 503-945-8383
+- Email: dor.research@dor.oregon.gov
+- Address: 955 Center St NE, Salem, OR 97302

@@ -40,7 +40,9 @@ Eligibility for food assistance shall be determined based on household income, h
 The State Legislature shall appropriate sufficient funds to operate the food assistance program. The program may be funded through:
 (a) State General Fund allocations
 (b) Dedicated revenue streams established by the Legislature
-(c) Federal matching funds when available, but not dependent on federal funding
+(c) Other state revenue sources as determined by the Legislature
+
+**Note:** Federal SNAP benefits are distributed directly to eligible individuals through federal programs and are separate from state-funded food assistance. The state program operates independently of federal funding, though households may receive both federal and state benefits when federal SNAP is available.
 
 **Subsection (5) - Implementation Timeline**
 The program shall be implemented within 24 months of this amendment's approval. The Legislature may establish a phased implementation schedule.

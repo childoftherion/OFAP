@@ -54,6 +54,21 @@ Comprehensive budget analysis and revenue sources:
 - **[funding-strategies-ofap.md](State-budget/funding-strategies-ofap.md)** - OFAP funding recommendations
 - **[official-sources-references.md](State-budget/official-sources-references.md)** - Links to official budget documents
 
+### Additional Tax Data Sources
+
+**Oregon Department of Revenue - Research Reports and Statistics**: [https://www.oregon.gov/dor/gov-research/pages/default.aspx](https://www.oregon.gov/dor/gov-research/pages/default.aspx)
+
+Comprehensive tax statistics including:
+
+- **Oregon Marijuana Tax Statistics**: Monthly tax receipts, quarterly distributions, statistical reports
+- **Oregon Lodging Tax Report**: State transient lodging tax by region and accommodation type
+- **Corporate Activity Tax Statistics**: Annual corporate tax data
+- **Personal Income Tax Statistics**: Individual tax collection data
+- **Tax Expenditure Reports**: Analysis of tax credits, exemptions, and deductions
+- **Property Tax Statistics**: Property tax data and analysis
+
+Contact: dor.research@dor.oregon.gov | 503-945-8383
+
 ## Key Components
 
 ### Ballot Measures (`considerations/`)
@@ -205,6 +220,8 @@ Comprehensive analysis of Oregon's state budget and revenue sources based on off
 - **Tax Rate**: 17% retail tax
 - **Revenue Growth**: 14.5% increase projected (2023-2025 to 2025-2027)
 - **See**: [`State-budget/cannabis-tax-revenue.md`](State-budget/cannabis-tax-revenue.md) for complete analysis
+- **Data Source**: [Oregon Department of Revenue - Marijuana Tax Statistics](https://www.oregon.gov/dor/gov-research/pages/default.aspx)
+  - Monthly tax receipts, quarterly distributions, statistical reports available
 
 ## Design for Wide Public Support
 

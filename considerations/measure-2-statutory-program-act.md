@@ -148,10 +148,13 @@ Households with very low income and limited resources shall receive expedited pr
 (a) The Oregon Food Assistance Program shall be funded through:
 (1) State General Fund appropriations
 (2) Revenue from the Oregon Food Security Fund (if established)
-(3) Federal matching funds when available (but program not dependent on federal funds)
-(4) Other revenue sources as determined by the Legislature
+(3) Other revenue sources as determined by the Legislature
 
-(b) The Legislature shall appropriate sufficient funds annually to operate the program
+(b) Federal SNAP benefits are distributed directly to eligible individuals through federal programs and are NOT deposited into the Oregon Food Security Fund. When federal SNAP is operational, eligible households receive federal benefits separately from state-funded benefits provided by this program.
+
+(c) The Legislature shall appropriate sufficient funds annually to operate the state-funded program
+
+(d) The program operates independently of federal funding but coordinates with federal programs to ensure seamless service for households receiving both federal and state benefits
 
 **412.085 - Budget Estimates**
 (a) The Department shall provide annual budget estimates to the Legislature
@@ -195,10 +198,11 @@ The Department shall adopt rules necessary to implement this Act within 12 month
 
 **412.120 - Coordination with Federal Programs**
 The Department shall:
-(a) Coordinate with federal SNAP program to avoid duplication
-(b) Ensure seamless transition for households receiving both programs
-(c) Maximize federal matching funds when available
-(d) Ensure compliance with federal requirements when using federal funds
+(a) Coordinate with federal SNAP program to avoid duplication and ensure seamless service
+(b) Ensure households can receive both federal SNAP benefits (distributed directly through federal programs) and state OFAP benefits (from Oregon Food Security Fund) without confusion
+(c) Leverage existing federal SNAP infrastructure and processes for administrative efficiency where appropriate
+(d) Maintain clear separation between federal benefit distribution (direct to recipients) and state fund operations
+(e) Ensure compliance with all applicable federal and state requirements for program administration
 
 ### Section 10 - Economic Development and Local Food
 
