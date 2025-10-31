@@ -283,6 +283,9 @@ This document provides a comprehensive breakdown of all major Oregon state reven
 
 ## Data Sources
 
+- **Primary Budget Source**: National Association of State Budget Officers (NASBO) - [Oregon Budget Page](https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/oregon-budget)
+  - Budget totals and fund breakdowns from NASBO FY2026-2027 enacted budget
+  - See `nasbo-budget-data.md` for complete NASBO data
 - Oregon Legislative Fiscal Office (LFO)
 - Oregon Office of Economic Analysis
 - Oregon Secretary of State

@@ -6,13 +6,17 @@ This directory contains comprehensive budget and revenue data for Oregon state, 
 
 ## Document Structure
 
-1. **oregon-budget-overview.md** - Comprehensive overview of Oregon's biennial budget
-2. **revenue-sources-analysis.md** - Detailed breakdown of all major revenue sources
-3. **olcc-revenue-detailed.md** - OLCC (Oregon Liquor and Cannabis Commission) revenue analysis
-4. **lottery-revenue-analysis.md** - Oregon Lottery revenue and distribution
-5. **alcohol-tax-revenue.md** - Alcohol tax revenue breakdown
-6. **cannabis-tax-revenue.md** - Cannabis/marijuana tax revenue analysis
-7. **funding-strategies-ofap.md** - Funding recommendations based on budget analysis
+1. **nasbo-budget-data.md** - ⭐ **PRIMARY OFFICIAL SOURCE** - Official Oregon budget data from NASBO (National Association of State Budget Officers)
+2. **oregon-budget-overview.md** - Comprehensive overview of Oregon's biennial budget
+3. **revenue-sources-analysis.md** - Detailed breakdown of all major revenue sources
+4. **olcc-revenue-detailed.md** - OLCC (Oregon Liquor and Cannabis Commission) revenue analysis
+5. **lottery-revenue-analysis.md** - Oregon Lottery revenue and distribution
+6. **alcohol-tax-revenue.md** - Alcohol tax revenue breakdown
+7. **cannabis-tax-revenue.md** - Cannabis/marijuana tax revenue analysis
+8. **comprehensive-funding-analysis.md** - ⭐ **COMPLETE THOROUGH ANALYSIS** - Most comprehensive funding analysis with all options
+9. **funding-recommendations-summary.md** - Executive summary and quick reference for ballot measures
+10. **funding-strategies-ofap.md** - Funding recommendations based on budget analysis
+11. **official-sources-references.md** - Links to all official budget documents and sources
 
 ## Key Budget Figures (2025-2027 Biennium)
 

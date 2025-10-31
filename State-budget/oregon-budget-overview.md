@@ -190,11 +190,13 @@ Oregon operates on a **biennial (two-year) budget cycle**. The current biennium 
 
 ## Sources
 
-- National Association of State Budget Officers (NASBO)
+- **Primary Source**: National Association of State Budget Officers (NASBO) - [Oregon Budget Page](https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/oregon-budget)
 - Oregon Legislative Fiscal Office (LFO)
 - Oregon Office of Economic Analysis
 - Oregon Secretary of State Blue Book
 - Oregon Department of Administrative Services
+
+**Note**: All budget totals and major fund figures verified against NASBO FY2026-2027 enacted budget data. See `nasbo-budget-data.md` for detailed NASBO documentation.
 
 ## Notes
 

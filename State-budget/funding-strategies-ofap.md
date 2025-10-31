@@ -351,3 +351,14 @@ Oregon has **sufficient financial capacity** to fund the OFAP primarily through 
 
 The recommended approach is **financially sound, politically feasible, and sustainable** for long-term program operation.
 
+## Data Sources
+
+- **Primary Budget Source**: National Association of State Budget Officers (NASBO) - [Oregon Budget Page](https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/oregon-budget)
+  - FY2026-2027 Enacted Budget: $138.9 billion total, $37.3 billion General Fund, $1.8 billion Lottery Fund
+  - See `nasbo-budget-data.md` for detailed NASBO documentation
+- Oregon Legislative Fiscal Office (LFO)
+- Oregon Office of Economic Analysis
+- Oregon Secretary of State
+- Oregon Department of Revenue
+- OLCC Annual Reports
+- Oregon Lottery Commission Reports

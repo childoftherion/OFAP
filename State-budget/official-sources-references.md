@@ -61,9 +61,13 @@ This document provides direct links to official Oregon state budget documents, r
 
 - **URL**: https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/oregon-budget
 - **Content**:
-  - 2025-2027 Enacted Budget Summary
+  - FY2026-2027 Enacted Budget Summary (most current)
+  - FY2026-2027 Proposed Budget (Governor's recommendation)
+  - FY2024-2025 Enacted Budget
+  - Historical budget data (FY2022-2023, FY2020-2021)
   - Budget highlights and comparisons
   - National context
+- **Note**: This is the **PRIMARY OFFICIAL SOURCE** for Oregon state budget data. See `nasbo-budget-data.md` for detailed documentation of NASBO data.
 
 ## OLCC (Oregon Liquor and Cannabis Commission) Documents
 
