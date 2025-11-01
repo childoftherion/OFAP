@@ -41,7 +41,7 @@ The Oregon Food Security Fund shall receive moneys from the following sources, l
 (a) **State General Fund Appropriations**
 
 - **Amount**: $650-750 million annually ($1.3-1.5 billion biennium)
-- **Percentage of General Fund**: 3.5-4.0% of biennial General Fund
+- **Percentage of General Fund**: 13.4-18.8% of biennial General Fund (based on $37.3B biennial General Fund)
 - **Feasibility**: VERY HIGH - Uses existing revenue, no new taxes required
 - **Political Support**: BROADEST BIPARTISAN SUPPORT
   - Fiscal conservatives: Uses existing funds, no tax increases
@@ -161,13 +161,13 @@ The following table outlines specific funding amounts from all sources, prioriti
 
 | Funding Source         | Annual Amount | Biennium Amount | Bipartisan Support | Feasibility   | Status           |
 | ---------------------- | ------------- | --------------- | ------------------ | ------------- | ---------------- |
-| **General Fund**       | $650-750M     | $1.3-1.5B       | ⭐⭐⭐ HIGHEST     | VERY HIGH     | Required         |
+| **General Fund**       | $2.5-3.5B     | $5.0-7.0B       | ⭐⭐⭐ HIGHEST     | VERY HIGH     | Required         |
 | **Efficiency Savings** | $15-30M       | $30-60M         | ⭐⭐⭐ HIGH        | VERY HIGH     | Built-in         |
 | **OLCC Revenue**       | $32-47M       | $64-94M         | ⭐⭐ MODERATE-HIGH | MODERATE-HIGH | Optional         |
 | **Lottery Fund**       | $7-13M        | $14-26M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
 | **Lodging Tax**        | $15-30M       | $30-60M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
 | **Tobacco Tax**        | $5-15M        | $10-30M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
-| **TOTAL AVAILABLE**    | **$718-895M** | **$1.44-1.79B** |                    |               | **Exceeds need** |
+| **TOTAL AVAILABLE**    | **$2.58-3.64B** | **$5.16-7.28B** |                    |               | **Exceeds need** |
 
 **Note:** Federal SNAP benefits are distributed directly to recipients through federal programs and are NOT included in this table, as they are not deposited into the Oregon Food Security Fund. When federal SNAP is operational, households receive federal benefits separately from state benefits.
 
@@ -669,14 +669,26 @@ Federal SNAP benefits are distributed directly to recipients through federal pro
 
 ### Initial Program Costs (Estimated)
 
-Based on serving 757,000 Oregonians at 185% poverty level:
+Based on universal eligibility for all United States citizens who are natural persons and full-time Oregon residents:
 
-- **Annual Benefit Costs**: $600-800 million
-  - Assumes average benefit of $200-250/month per household
-  - Average household size: 2.2 persons
-- **Administrative Costs**: $30-40 million (5% of benefits)
-- **System Costs**: $10-15 million annually
-- **Total Estimated Annual Cost**: $640-855 million
+**Oregon Population Context:**
+- Total Oregon Population (2024): ~4.24 million
+- Estimated eligible population (US citizens, natural persons, full-time residents): ~4.0-4.1 million
+- Average household size: 2.2 persons
+- Estimated households: ~1.8-1.9 million
+
+**Cost Estimates:**
+- **Annual Benefit Costs**: $2.5-3.5 billion
+  - Assumes full Thrifty Food Plan benefits for all eligible households
+  - Average benefit: $150-200/month per person (varies by household size)
+  - Universal eligibility means all eligible residents receive benefits regardless of income
+- **Administrative Costs**: $125-175 million (5% of benefits)
+  - Simplified administration due to universal eligibility (no income verification)
+  - Citizenship and residency verification costs
+- **System Costs**: $20-30 million annually (larger scale system needed)
+- **Total Estimated Annual Cost**: $2.65-3.7 billion
+
+**Note**: Universal eligibility significantly increases total program cost but eliminates means-testing administrative expenses. Benefits are universal but fixed by household size based on federal Thrifty Food Plan standards.
 - **Mid-Range Target**: $750 million annually
 
 ### Detailed Funding Sources (Prioritized by Bipartisan Support)

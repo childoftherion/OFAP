@@ -8,11 +8,11 @@
 
 ## Short Ballot Title
 
-"Establishes state-funded food assistance program; creates EBT system for eligible Oregon residents"
+"Establishes universal state-funded food assistance program; creates EBT system for all eligible Oregon citizens"
 
 ## Summary
 
-This measure establishes the Oregon Food Assistance Program (OFAP), a state-funded program that provides monthly food benefits to eligible Oregon residents using an Electronic Benefit Transfer (EBT) card system. The program operates independently of federal funding to ensure continuity during federal disruptions. Benefits are determined by household size and income, with eligibility set at 185% of the federal poverty level.
+This measure establishes the Oregon Food Assistance Program (OFAP), a state-funded universal program that provides monthly food benefits to all eligible Oregon residents using an Electronic Benefit Transfer (EBT) card system. The program operates independently of federal funding to ensure continuity during federal disruptions. Eligibility is universal for all United States citizens who are natural persons and full-time residents of Oregon, regardless of income. Benefits are determined by household size using federal Thrifty Food Plan standards, with no income-based reductions.
 
 ## Full Text (Proposed)
 
@@ -35,48 +35,63 @@ The Oregon Food Assistance Program is established to:
 As used in this Act:
 (a) "Department" means the Oregon Department of Human Services
 (b) "EBT" means Electronic Benefit Transfer system
-(c) "Eligible resident" means a person who meets the eligibility criteria established in this Act
-(d) "Federal poverty level" means the federal poverty guidelines updated annually
-(e) "Household" means individuals who live together and purchase and prepare meals together
-(f) "Food assistance benefit" means the monthly amount allocated to a household for food purchases
+(c) "Eligible resident" means a person who meets the universal eligibility criteria established in this Act (United States citizen, natural person, full-time Oregon resident)
+(d) "Natural person" means a human being, not a corporation, partnership, limited liability company, trust, estate, or other legal artificial person
+(e) "Full-time resident" means an individual who maintains Oregon as their primary place of residence for more than 183 days per year
+(f) "Household" means individuals who live together and purchase and prepare meals together
+(g) "Food assistance benefit" means the monthly amount allocated to a household for food purchases based on household size using federal Thrifty Food Plan standards
 
 ### Section 3 - Eligibility
 
-**412.020 - Eligibility Criteria**
-(a) To be eligible for the Oregon Food Assistance Program, a household must:
-(1) Include at least one Oregon resident
-(2) Have a gross monthly household income at or below 185% of the federal poverty level
-(3) Meet residency requirements as established by the Department
-(4) Comply with application and verification requirements
+**412.020 - Universal Eligibility Criteria**
+(a) To be eligible for the Oregon Food Assistance Program, an individual must:
+(1) Be a citizen of the United States
+(2) Be a natural person (not a corporation, partnership, LLC, trust, estate, or other legal artificial person)
+(3) Be a full-time resident of the State of Oregon, as defined by the Department
+(4) Comply with residency verification requirements established by the Department
 
-(b) Eligibility shall not be restricted based on:
-(1) Immigration status
-(2) Age (applies to all age groups)
-(3) Disability status
-(4) Employment status
+(b) Eligibility Requirements:
+(1) Citizenship: Must provide proof of United States citizenship
+(2) Natural Person: Only natural persons (individuals) are eligible; legal entities are excluded
+(3) Full-Time Residency: Must establish Oregon as primary place of residence, with intent to remain
+(4) Verification: Must provide documentation as required by the Department to verify citizenship and residency
 
-(c) The Department may establish additional eligibility criteria consistent with the purpose of this Act, including asset limits and verification requirements.
+(c) Eligibility shall not be restricted based on:
+(1) Income level (universal eligibility regardless of income)
+(2) Household size (all household members eligible individually)
+(3) Age (applies to all age groups)
+(4) Disability status
+(5) Employment status
+(6) Asset ownership
 
-**412.025 - Income Calculation**
-(a) Household income includes all sources of income as defined by the Department
-(b) Income calculations shall align with federal SNAP program standards where applicable
-(c) Certain deductions may apply, including:
-(1) Standard deduction for household size
-(2) Medical expense deductions for elderly and disabled members
-(3) Dependent care deductions
-(4) Shelter cost deductions for high-cost areas
+(d) The Department shall establish procedures for:
+(1) Verification of United States citizenship
+(2) Verification of Oregon residency
+(3) Determination of full-time residency status
+(4) Re-verification requirements to maintain eligibility
+
+**412.025 - Residency Determination**
+(a) For purposes of this Act, "full-time resident" means an individual who:
+(1) Maintains a permanent place of abode in Oregon
+(2) Is physically present in Oregon for more than 183 days per calendar year
+(3) Has Oregon as their primary place of residence
+(4) Intends to remain in Oregon (not merely present temporarily)
+
+(b) The Department may establish additional criteria for residency determination consistent with state law and administrative efficiency.
 
 ### Section 4 - Benefit Amounts
 
-**412.030 - Benefit Calculation**
-(a) Monthly benefit amounts shall be calculated based on:
+**412.030 - Universal Benefit Calculation**
+(a) Monthly benefit amounts shall be calculated based solely on household size, using the federal Thrifty Food Plan standards:
 (1) Maximum benefit allotment for household size (consistent with federal SNAP Thrifty Food Plan)
-(2) Household income and allowable deductions
-(3) Thirty percent of net income shall be expected to be spent on food
+(2) Benefits are universal and not reduced based on income
+(3) All eligible individuals receive the full benefit amount for their household size
 
 (b) Minimum monthly benefit shall be $50 per eligible household
 
-(c) Maximum monthly benefit shall not exceed federal SNAP maximum allotments for equivalent household size
+(c) Maximum monthly benefit shall be based on federal SNAP Thrifty Food Plan maximum allotments for household size, with no income-based reduction
+
+(d) Benefit amounts shall be the same for all eligible households of the same size, regardless of income or assets
 
 **412.035 - Benefit Indexing**
 (a) Benefit amounts shall be adjusted annually based on:
@@ -127,9 +142,10 @@ EBT benefits may NOT be used for:
 
 (b) Applications must include:
 (1) Household composition information
-(2) Income documentation
-(3) Residency verification
-(4) Other information as required by the Department
+(2) Proof of United States citizenship (birth certificate, passport, naturalization certificate, or other acceptable documentation)
+(3) Proof of Oregon residency (driver's license, utility bills, lease agreement, or other acceptable documentation)
+(4) Documentation establishing full-time residence in Oregon
+(5) Other information as required by the Department
 
 **412.065 - Certification Periods**
 (a) Eligible households shall be certified for benefits for a period determined by the Department, typically:
@@ -139,8 +155,10 @@ EBT benefits may NOT be used for:
 
 (b) Households must report changes in circumstances within 10 days
 
-**412.070 - Expedited Services**
-Households with very low income and limited resources shall receive expedited processing and benefits within 7 days of application.
+**412.070 - Application Processing**
+(a) Applications shall be processed within 30 days of receipt of complete documentation
+(b) Expedited processing (within 7 days) may be available for households facing immediate food insecurity, as determined by the Department
+(c) Incomplete applications shall be processed within 30 days of receipt of all required documentation
 
 ### Section 7 - Funding
 
@@ -237,17 +255,24 @@ Annual reports shall include analysis of:
 
 ## Support-Building Elements
 
-### Broad Eligibility (185% of poverty)
+### Universal Eligibility
 
-- Serves working families, not just very poor
-- Includes many voters who may directly benefit
-- Aligns with Oregon values of supporting working families
+- Universal eligibility for all United States citizens who are Oregon residents
+- No income restrictions - all eligible residents receive benefits
+- Simplified eligibility reduces administrative costs
+- Ensures no one falls through cracks due to income thresholds
 
-### All Residents Included
+### Natural Person Requirement
 
-- No immigration status restrictions (following "Food for All Oregonians" model)
-- Appeals to progressive voters
-- Recognizes contributions of all Oregon residents
+- Only natural persons (individuals) eligible - excludes corporations and legal entities
+- Prevents abuse by artificial entities
+- Ensures benefits go to actual people
+
+### Full-Time Residency Requirement
+
+- Ensures benefits go to Oregon residents, not temporary visitors
+- 183+ days per year requirement prevents gaming the system
+- Protects Oregon's financial resources for Oregonians
 
 ### Local Food Support
 
@@ -270,36 +295,34 @@ Annual reports shall include analysis of:
 
 ## Potential Modifications for Broader Support
 
-### Option A: More Restrictive Eligibility
+## Universal Eligibility Rationale
 
-- Lower income threshold (150% instead of 185%)
-- Asset limits
-- Work requirements for able-bodied adults
+### Why Universal Eligibility?
 
-**Pros**: Lower cost, appeals to fiscal conservatives
-**Cons**: Excludes working families, reduces support base
+**Cost Considerations:**
 
-### Option B: Phased Eligibility
+- Eliminates means-testing administrative costs
+- Reduces fraud prevention costs (no income verification needed)
+- Streamlines application process
+- Reduces eligibility worker needs
 
-- Phase 1: Current SNAP-eligible population
-- Phase 2: Expand to 185% after program stability established
+**Equity Benefits:**
 
-**Pros**: Lower initial cost, demonstrates effectiveness first
-**Cons**: Delays full implementation
+- No one excluded based on income
+- Prevents administrative errors from denying benefits
+- Ensures all Oregonians have food security
+- Treats all citizens equally
 
-### Option C: County Opt-In
+**Economic Benefits:**
 
-- Allow counties to opt into program
-- State provides funding for participating counties
+- Universal benefits create predictable consumer spending
+- All residents contribute to local food economy
+- Reduces stigma associated with means-tested programs
+- Supports Oregon agricultural sector across all income levels
 
-**Pros**: Local control appeal, reduces statewide cost
-**Cons**: Creates inequity, administrative complexity
+### Implementation Considerations
 
-## Recommended Approach
-
-**Support Option B (Phased Eligibility)** as compromise that:
-
-- Demonstrates program effectiveness
-- Builds public confidence
-- Allows for expansion based on results
-- Maintains broad eligibility goal
+- Higher total program cost due to universal eligibility
+- Simpler administration may offset some costs
+- Benefits are universal but fixed by household size (no income-based sliding scale)
+- Citizenship and residency verification required for all applicants

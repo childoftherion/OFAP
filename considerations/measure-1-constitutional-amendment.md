@@ -8,16 +8,17 @@
 
 ## Short Ballot Title
 
-"Amends Constitution: Establishes food security as fundamental right; requires state-funded food assistance program"
+"Amends Constitution: Establishes food security as fundamental right; requires universal state-funded food assistance program for all Oregon citizens"
 
 ## Summary
 
 This measure amends the Oregon Constitution to:
 
 1. Recognize access to adequate food as a fundamental right for all Oregon residents
-2. Require the state to establish and maintain a food assistance program independent of federal funding
-3. Mandate the program be administered efficiently and with accountability
-4. Establish that the program shall be funded through state resources
+2. Require the state to establish and maintain a universal food assistance program independent of federal funding
+3. Establish universal eligibility for all United States citizens who are natural persons and full-time residents of Oregon
+4. Mandate the program be administered efficiently and with accountability
+5. Establish that the program shall be funded through state resources
 
 ## Full Text (Proposed)
 
@@ -34,7 +35,13 @@ The State shall establish and maintain a food assistance program that:
 (d) Is administered by the Oregon Department of Human Services or designated state agency
 
 **Subsection (3) - Eligibility Criteria**
-Eligibility for food assistance shall be determined based on household income, household size, and other factors established by law. The program shall serve residents whose household income is at or below 185% of the federal poverty level.
+Eligibility for food assistance shall be universal for all Oregon residents who meet the following requirements:
+(a) Be a citizen of the United States
+(b) Be a natural person (not a corporation or other legal artificial person)
+(c) Be a full-time resident of the State of Oregon
+(d) Meet residency verification requirements as established by law
+
+The program shall serve all eligible residents regardless of income, household size, age, disability status, or employment status.
 
 **Subsection (4) - Funding**
 The State Legislature shall appropriate sufficient funds to operate the food assistance program. The program may be funded through:

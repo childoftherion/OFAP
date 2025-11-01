@@ -131,7 +131,7 @@ Four ballot measures designed to establish the Oregon Food Assistance Program an
 - **NO NEW TAXES**: Uses only existing 17% tax rate and existing licensing fees
 - 10% of existing tax revenue + all licensing fees to permanent fund ($37-47M annually)
 - Principal protection: Principal cannot be spent without voter approval
-- Earnings protection: Earnings cannot be used for education, health, or general fund
+- Earnings protection: Earnings cannot be reallocated by the legislative body without voter approval
 - Public vote required for any earnings reallocation changes
 - Universal dividends or direct payment programs
 - Private cannabis industry continues operating unchanged

@@ -36,8 +36,8 @@ Creates the actual program - eligibility, benefits, administration, EBT system. 
 
 **Key Features:**
 
-- Eligibility: Households at 185% of federal poverty level
-- Benefits: Monthly EBT benefits based on household size and income
+- Eligibility: Universal for all United States citizens who are natural persons and full-time Oregon residents
+- Benefits: Monthly EBT benefits based on household size (using federal Thrifty Food Plan standards, no income-based reductions)
 - Administration: Oregon Department of Human Services
 - All residents eligible (no immigration status restrictions)
 
