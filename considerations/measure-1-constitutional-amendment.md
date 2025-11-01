@@ -31,17 +31,17 @@ It is the obligation of the State of Oregon to ensure that every resident has ac
 The State shall establish and maintain a food assistance program that:
 (a) Provides monthly food assistance benefits to eligible Oregon residents
 (b) Operates independently of federal funding to ensure continuity of benefits
-(c) Utilizes OFAP cards (restricted payment cards) that can only be used to purchase authorized food items for home consumption, including staples, raw ingredients, seeds, and food-bearing plants
+(c) Utilizes OFAP cards (restricted payment cards) that can only be used to purchase authorized food items for home consumption, including but not limited to, staples, raw ingredients, seeds, food-bearing plants, and any other products designated by the administration agency
 (d) Is administered by the Oregon Department of Human Services or designated state agency
 
 **Subsection (3) - Eligibility Criteria**
 Eligibility for food assistance shall be universal for all Oregon residents who meet the following requirements:
-(a) Be a citizen of the United States
-(b) Be a natural person (not a corporation or other legal artificial person)
-(c) Be a full-time resident of the State of Oregon
+(a) Be a citizen of the United States,
+(b) Be a natural person (not a corporation or other legal artificial person),
+(c) Be a full-time resident of the State of Oregon, and
 (d) Meet residency verification requirements as established by law
 
-The program shall serve all eligible residents regardless of income, household size, age, disability status, or employment status.
+The program shall serve all eligible residents without discrimination based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, marital status, familial status, disability, veteran status, income, household size, or employment status.
 
 **Subsection (4) - Funding**
 The State Legislature shall appropriate sufficient funds to operate the food assistance program. The program may be funded through:
