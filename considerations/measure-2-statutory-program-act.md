@@ -113,7 +113,7 @@ As used in this Act:
 (5) Maintain program records and data
 (6) Prevent fraud and abuse
 (7) Provide customer service and support
-(8) Identify, secure, and allocate funding to provide incentives for local agricultural producers, including community gardens, cooperatives, and small-scale farms—to increase the accessibility and affordability of locally produced food for residents.
+(8) Identify, secure, and allocate funding to provide incentives for local agricultural producers, including community gardens, cooperatives, and small-scale farms, to increase the accessibility and affordability of locally produced food for residents.
 
 **412.045 - OFAP Card System**
 (a) Benefits shall be distributed through OFAP cards (Oregon Food Assistance Program cards)
@@ -276,7 +276,7 @@ The Department shall, where feasible:
 (b) Support use of benefits at farmers markets
 (c) Develop programs that connect recipients with local food sources
 (d) Promote nutrition education featuring Oregon-grown foods
-(e) Identify, secure, and allocate funding to provide incentives for local agricultural producers, including community gardens, cooperatives, and small-scale farms—to increase the accessibility and affordability of locally produced food for residents.
+(e) Identify, secure, and allocate funding to provide incentives for local agricultural producers, including community gardens, cooperatives, and small-scale farms, to increase the accessibility and affordability of locally produced food for residents.
 
 **412.135 - Economic Impact Reporting**
 Annual reports shall include analysis of:
