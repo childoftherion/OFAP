@@ -113,6 +113,7 @@ As used in this Act:
 (5) Maintain program records and data
 (6) Prevent fraud and abuse
 (7) Provide customer service and support
+(8) Identify, secure, and allocate funding to provide incentives for local agricultural producers, including community gardens, cooperatives, and small-scale farms—to increase the accessibility and affordability of locally produced food for residents.
 
 **412.045 - OFAP Card System**
 (a) Benefits shall be distributed through OFAP cards (Oregon Food Assistance Program cards)
@@ -145,6 +146,7 @@ As used in this Act:
 (C) Dairy products (milk, cheese, eggs, yogurt, etc.)
 (D) Nuts and seeds (for food preparation, not planting)
 (E) Herbs and spices (fresh or dried, for cooking)
+(F) Ice
 
 (3) **Seeds and Food-Bearing Plants** - For growing food at home:
 (A) Vegetable seeds (all varieties)
@@ -187,6 +189,9 @@ As used in this Act:
 (3) Proof of Oregon residency (driver's license, utility bills, lease agreement, or other acceptable documentation)
 (4) Documentation establishing full-time residence in Oregon
 (5) Other information as required by the Department
+
+(c) Simplified Application Process and Records
+(1) The program will simplify application and recordkeeping processes to reduce administrative burdens, using clear and concise materials that enable timely eligibility decisions and prompt access to food benefits.
 
 **412.065 - Certification Periods**
 (a) Eligible households shall be certified for benefits for a period determined by the Department, typically:
@@ -271,6 +276,7 @@ The Department shall, where feasible:
 (b) Support use of benefits at farmers markets
 (c) Develop programs that connect recipients with local food sources
 (d) Promote nutrition education featuring Oregon-grown foods
+(e) Identify, secure, and allocate funding to provide incentives for local agricultural producers, including community gardens, cooperatives, and small-scale farms—to increase the accessibility and affordability of locally produced food for residents.
 
 **412.135 - Economic Impact Reporting**
 Annual reports shall include analysis of:
