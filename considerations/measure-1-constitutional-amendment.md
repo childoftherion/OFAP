@@ -41,6 +41,7 @@ Eligibility for food assistance shall be universal for all Oregon residents who 
 (c) Be a full-time resident of the State of Oregon, and
 (d) Meet residency verification requirements as established by law
 
+Non-Discrimination Policy
 The program shall serve all eligible residents without discrimination based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, marital status, familial status, disability, veteran status, income, household size, or employment status.
 
 **Subsection (4) - Funding**
