@@ -32,12 +32,13 @@ Establishes food security as a fundamental right in the Oregon Constitution, sim
 
 **File**: `measure-2-statutory-program-act.md`
 
-Creates the actual program - eligibility, benefits, administration, EBT system. Detailed implementation framework.
+Creates the actual program - eligibility, benefits, administration, OFAP card system. Detailed implementation framework.
 
 **Key Features:**
 
 - Eligibility: Universal for all United States citizens who are natural persons and full-time Oregon residents
-- Benefits: Monthly EBT benefits based on household size (using federal Thrifty Food Plan standards, no income-based reductions)
+- Benefits: Monthly OFAP card benefits based on household size (using federal Thrifty Food Plan standards, no income-based reductions)
+- Purchase Restrictions: OFAP cards can only be used for authorized food items - staples, raw ingredients, seeds, and food-bearing plants
 - Administration: Oregon Department of Human Services
 - All residents eligible (no immigration status restrictions)
 

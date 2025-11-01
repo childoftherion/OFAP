@@ -29,7 +29,7 @@ This measure establishes the Oregon Food Security Fund as a dedicated funding so
 The Oregon Food Security Fund shall be used exclusively for:
 (a) Food assistance benefits distributed to eligible households
 (b) Administrative costs of program operation (not to exceed 5% of annual disbursements)
-(c) EBT system operation and maintenance
+(c) OFAP card system operation and maintenance, including purchase restriction technology
 (d) Program outreach and education
 (e) Fraud prevention and investigation
 
@@ -159,14 +159,14 @@ This section provides detailed funding mechanisms, economic impact data, and cos
 
 The following table outlines specific funding amounts from all sources, prioritized by bipartisan support likelihood:
 
-| Funding Source         | Annual Amount | Biennium Amount | Bipartisan Support | Feasibility   | Status           |
-| ---------------------- | ------------- | --------------- | ------------------ | ------------- | ---------------- |
-| **General Fund**       | $2.5-3.5B     | $5.0-7.0B       | ⭐⭐⭐ HIGHEST     | VERY HIGH     | Required         |
-| **Efficiency Savings** | $15-30M       | $30-60M         | ⭐⭐⭐ HIGH        | VERY HIGH     | Built-in         |
-| **OLCC Revenue**       | $32-47M       | $64-94M         | ⭐⭐ MODERATE-HIGH | MODERATE-HIGH | Optional         |
-| **Lottery Fund**       | $7-13M        | $14-26M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
-| **Lodging Tax**        | $15-30M       | $30-60M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
-| **Tobacco Tax**        | $5-15M        | $10-30M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
+| Funding Source         | Annual Amount   | Biennium Amount | Bipartisan Support | Feasibility   | Status           |
+| ---------------------- | --------------- | --------------- | ------------------ | ------------- | ---------------- |
+| **General Fund**       | $2.5-3.5B       | $5.0-7.0B       | ⭐⭐⭐ HIGHEST     | VERY HIGH     | Required         |
+| **Efficiency Savings** | $15-30M         | $30-60M         | ⭐⭐⭐ HIGH        | VERY HIGH     | Built-in         |
+| **OLCC Revenue**       | $32-47M         | $64-94M         | ⭐⭐ MODERATE-HIGH | MODERATE-HIGH | Optional         |
+| **Lottery Fund**       | $7-13M          | $14-26M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
+| **Lodging Tax**        | $15-30M         | $30-60M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
+| **Tobacco Tax**        | $5-15M          | $10-30M         | ⭐⭐ MODERATE      | MODERATE      | Optional         |
 | **TOTAL AVAILABLE**    | **$2.58-3.64B** | **$5.16-7.28B** |                    |               | **Exceeds need** |
 
 **Note:** Federal SNAP benefits are distributed directly to recipients through federal programs and are NOT included in this table, as they are not deposited into the Oregon Food Security Fund. When federal SNAP is operational, households receive federal benefits separately from state benefits.
@@ -672,12 +672,14 @@ Federal SNAP benefits are distributed directly to recipients through federal pro
 Based on universal eligibility for all United States citizens who are natural persons and full-time Oregon residents:
 
 **Oregon Population Context:**
+
 - Total Oregon Population (2024): ~4.24 million
 - Estimated eligible population (US citizens, natural persons, full-time residents): ~4.0-4.1 million
 - Average household size: 2.2 persons
 - Estimated households: ~1.8-1.9 million
 
 **Cost Estimates:**
+
 - **Annual Benefit Costs**: $2.5-3.5 billion
   - Assumes full Thrifty Food Plan benefits for all eligible households
   - Average benefit: $150-200/month per person (varies by household size)
@@ -689,6 +691,7 @@ Based on universal eligibility for all United States citizens who are natural pe
 - **Total Estimated Annual Cost**: $2.65-3.7 billion
 
 **Note**: Universal eligibility significantly increases total program cost but eliminates means-testing administrative expenses. Benefits are universal but fixed by household size based on federal Thrifty Food Plan standards.
+
 - **Mid-Range Target**: $750 million annually
 
 ### Detailed Funding Sources (Prioritized by Bipartisan Support)

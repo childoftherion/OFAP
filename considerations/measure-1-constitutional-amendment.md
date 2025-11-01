@@ -31,7 +31,7 @@ It is the obligation of the State of Oregon to ensure that every resident has ac
 The State shall establish and maintain a food assistance program that:
 (a) Provides monthly food assistance benefits to eligible Oregon residents
 (b) Operates independently of federal funding to ensure continuity of benefits
-(c) Utilizes an Electronic Benefit Transfer (EBT) system or equivalent modern distribution method
+(c) Utilizes OFAP cards (restricted payment cards) that can only be used to purchase authorized food items for home consumption, including staples, raw ingredients, seeds, and food-bearing plants
 (d) Is administered by the Oregon Department of Human Services or designated state agency
 
 **Subsection (3) - Eligibility Criteria**

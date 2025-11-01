@@ -8,11 +8,11 @@
 
 ## Short Ballot Title
 
-"Establishes universal state-funded food assistance program; creates EBT system for all eligible Oregon citizens"
+"Establishes universal state-funded food assistance program; creates OFAP cards restricted to authorized food items only"
 
 ## Summary
 
-This measure establishes the Oregon Food Assistance Program (OFAP), a state-funded universal program that provides monthly food benefits to all eligible Oregon residents using an Electronic Benefit Transfer (EBT) card system. The program operates independently of federal funding to ensure continuity during federal disruptions. Eligibility is universal for all United States citizens who are natural persons and full-time residents of Oregon, regardless of income. Benefits are determined by household size using federal Thrifty Food Plan standards, with no income-based reductions.
+This measure establishes the Oregon Food Assistance Program (OFAP), a state-funded universal program that provides monthly food benefits to all eligible Oregon residents using OFAP cards (restricted purchase cards). OFAP cards can only be used to purchase authorized food items for home consumption, including staples, raw ingredients, seeds, and food-bearing plants. The program operates independently of federal funding to ensure continuity during federal disruptions. Eligibility is universal for all United States citizens who are natural persons and full-time residents of Oregon, regardless of income. Benefits are determined by household size using federal Thrifty Food Plan standards, with no income-based reductions.
 
 ## Full Text (Proposed)
 
@@ -34,12 +34,13 @@ The Oregon Food Assistance Program is established to:
 **412.010 - Definitions**
 As used in this Act:
 (a) "Department" means the Oregon Department of Human Services
-(b) "EBT" means Electronic Benefit Transfer system
-(c) "Eligible resident" means a person who meets the universal eligibility criteria established in this Act (United States citizen, natural person, full-time Oregon resident)
-(d) "Natural person" means a human being, not a corporation, partnership, limited liability company, trust, estate, or other legal artificial person
-(e) "Full-time resident" means an individual who maintains Oregon as their primary place of residence for more than 183 days per year
-(f) "Household" means individuals who live together and purchase and prepare meals together
-(g) "Food assistance benefit" means the monthly amount allocated to a household for food purchases based on household size using federal Thrifty Food Plan standards
+(b) "OFAP card" means Oregon Food Assistance Program card, a restricted payment card that can only be used to purchase authorized food items
+(c) "Authorized food items" means food items that are eligible for purchase with OFAP benefits for home consumption
+(d) "Eligible resident" means a person who meets the universal eligibility criteria established in this Act (United States citizen, natural person, full-time Oregon resident)
+(e) "Natural person" means a human being, not a corporation, partnership, limited liability company, trust, estate, or other legal artificial person
+(f) "Full-time resident" means an individual who maintains Oregon as their primary place of residence for more than 183 days per year
+(g) "Household" means individuals who live together and purchase and prepare meals together
+(h) "Food assistance benefit" means the monthly amount allocated to a household for food purchases based on household size using federal Thrifty Food Plan standards
 
 ### Section 3 - Eligibility
 
@@ -107,29 +108,69 @@ As used in this Act:
 (b) The Department shall:
 (1) Develop application process and forms
 (2) Determine eligibility and benefit amounts
-(3) Issue EBT cards to eligible households
+(3) Issue OFAP cards to eligible households
 (4) Process recertifications and benefit changes
 (5) Maintain program records and data
 (6) Prevent fraud and abuse
 (7) Provide customer service and support
 
-**412.045 - EBT System**
-(a) Benefits shall be distributed through an Electronic Benefit Transfer (EBT) system
-(b) EBT cards may be used at authorized retail locations that accept food assistance
-(c) EBT transactions shall be processed efficiently and securely
-(d) The Department may contract with private vendors for EBT system operation
+**412.045 - OFAP Card System**
+(a) Benefits shall be distributed through OFAP cards (Oregon Food Assistance Program cards)
+(b) OFAP cards are restricted payment cards that can only be used to purchase authorized food items
+(c) OFAP cards may be used at authorized retail locations that accept OFAP benefits
+(d) OFAP card transactions shall be processed efficiently and securely with automatic restriction to authorized purchases
+(e) The Department shall contract with payment processing vendors that can restrict purchases to only authorized items
+(f) OFAP cards must use point-of-sale restrictions to prevent unauthorized purchases
 
-**412.050 - Authorized Purchases**
-EBT benefits may be used to purchase:
-(a) Food items for home preparation and consumption
-(b) Seeds and plants that produce food for household consumption
-(c) Meal delivery services for elderly and disabled individuals (as determined by the Department)
+**412.050 - Authorized Food Items**
 
-EBT benefits may NOT be used for:
-(a) Alcohol or tobacco products
-(b) Non-food items (soap, paper products, etc.)
-(c) Prepared hot foods (except as specifically authorized)
-(d) Vitamins and medicines
+(a) OFAP card benefits may ONLY be used to purchase authorized food items for home consumption as defined in this section.
+
+(b) For purposes of this Act, "authorized food items" means food items for home consumption, but restricted to the specific categories set forth in this section:
+
+(c) **Authorized Food Categories**:
+
+(1) **Food Staples** - Basic food items essential for home cooking:
+(A) Grains and cereals (rice, wheat, oats, corn, barley, quinoa, etc.)
+(B) Legumes and beans (dried or canned beans, lentils, chickpeas, peas, etc.)
+(C) Flour and baking ingredients (wheat flour, cornmeal, baking powder, baking soda, yeast, etc.)
+(D) Pasta, noodles, and rice products
+(E) Basic cooking oils and fats (vegetable oil, olive oil, butter, lard, etc.)
+(F) Salt, sugar, and basic spices for home cooking
+(G) Vinegar and basic condiments used in cooking (mustard, soy sauce, etc.)
+
+(2) **Raw Ingredients** - Unprocessed or minimally processed ingredients for home preparation:
+(A) Fresh, frozen, or canned fruits and vegetables (unprepared, for home cooking)
+(B) Fresh, frozen, or canned meat, poultry, fish, and seafood (unprepared, for home cooking)
+(C) Dairy products (milk, cheese, eggs, yogurt, etc.)
+(D) Nuts and seeds (for food preparation, not planting)
+(E) Herbs and spices (fresh or dried, for cooking)
+
+(3) **Seeds and Food-Bearing Plants** - For growing food at home:
+(A) Vegetable seeds (all varieties)
+(B) Fruit seeds and tree saplings that produce food
+(C) Herb seeds and plants
+(D) Food-bearing plant seedlings and starts
+(E) Root vegetables for planting (potatoes, onions, garlic, etc.)
+(F) Bulbs and tubers that produce food
+
+(4) **Exclusions and Restrictions** - The following items are NOT authorized food items:
+
+- Prepared foods, ready-to-eat meals, and convenience foods are NOT authorized
+- Processed snack foods, chips, cookies, and sweets are NOT authorized
+- Pre-prepared deli foods and hot prepared foods are NOT authorized
+- Beverages other than milk and juice (100%) are NOT authorized
+- Vitamins, supplements, and medicines are NOT authorized
+- Non-food items of any kind are NOT authorized
+- Alcohol and tobacco products are NOT authorized
+- Pet food and animal feed are NOT authorized
+
+**412.051 - Purchase Restriction Technology**
+(a) OFAP cards must use point-of-sale technology that automatically restricts purchases to authorized food items
+(b) The Department shall maintain and regularly update a list of authorized product codes for OFAP purchases
+(c) Retailers must use approved point-of-sale systems that can restrict OFAP card purchases
+(d) The system must prevent any transaction for non-authorized items at the point of sale
+(e) The Department shall provide technical support and training to retailers on OFAP card restrictions
 
 ### Section 6 - Application and Certification
 
@@ -179,7 +220,7 @@ EBT benefits may NOT be used for:
 (b) Estimates shall be based on:
 (1) Projected caseload and benefit costs
 (2) Administrative costs (not to exceed 5% of total program costs)
-(3) System maintenance and technology costs
+(3) System maintenance and technology costs, including purchase restriction technology for OFAP cards
 
 ### Section 8 - Oversight and Accountability
 
@@ -238,13 +279,45 @@ Annual reports shall include analysis of:
 (c) Healthcare cost savings
 (d) Educational outcomes improvements
 
+## Rationale for Purchase Restrictions
+
+### Why Restrict Purchases to Authorized Food Items?
+
+**Health and Nutrition Benefits:**
+
+- Encourages consumption of whole, unprocessed foods
+- Promotes home cooking, which is generally more nutritious
+- Prevents spending on processed snacks and convenience foods
+- Supports better dietary choices through structural limits
+
+**Fiscal Responsibility:**
+
+- Ensures benefits are used for nutritional foods, not luxury items
+- Prevents misuse of public funds on non-essential purchases
+- Encourages economical food preparation (staples and raw ingredients)
+- Maximizes nutritional value per dollar spent
+
+**Agricultural Support:**
+
+- Directly supports Oregon farmers through purchases of raw ingredients
+- Encourages seed and plant purchases, supporting local nurseries
+- Promotes local food systems and sustainable agriculture
+- Creates demand for Oregon-grown staples and produce
+
+**Program Integrity:**
+
+- Ensures public funds are used for intended purpose (food security)
+- Builds public trust through transparent purchase restrictions
+- Prevents potential abuse while maintaining dignity
+- Demonstrates fiscal responsibility to taxpayers
+
 ## Rationale for Statutory Approach
 
 ### Advantages
 
 1. **Flexibility**: Statutes can be adjusted by Legislature as needed
-2. **Detailed Framework**: Allows comprehensive program design
-3. **Coordination**: Can integrate with existing systems
+2. **Detailed Framework**: Allows comprehensive program design including purchase restrictions
+3. **Coordination**: Can integrate with existing systems and point-of-sale technology
 4. **Accountability**: Clear oversight and reporting requirements
 
 ### Strategic Positioning
@@ -274,16 +347,24 @@ Annual reports shall include analysis of:
 - 183+ days per year requirement prevents gaming the system
 - Protects Oregon's financial resources for Oregonians
 
+### Purchase Restrictions Ensure Proper Use
+
+- OFAP cards restricted to authorized food items only (staples, raw ingredients, seeds, plants)
+- Prevents misuse of benefits on prepared foods, snacks, or non-food items
+- Encourages home cooking and healthy eating habits
+- Supports Oregon agricultural sector through purchases of authorized food items (staples, raw ingredients, seeds, plants)
+- Ensures benefits are used for nutritional food preparation, not convenience foods
+
 ### Local Food Support
 
-- Appeals to agricultural communities
-- Supports Oregon economy
-- Creates bipartisan support
+- Appeals to agricultural communities through purchase of staples and raw ingredients
+- Supports Oregon farms through seed and plant purchases
+- Supports Oregon economy through food purchases
 
 ### Efficient Administration
 
 - 5% cap on administrative costs
-- Modern EBT system (proven technology)
+- Modern OFAP card system with purchase restrictions (proven point-of-sale restriction technology)
 - Fraud prevention built in
 
 ### Economic Benefits Emphasis

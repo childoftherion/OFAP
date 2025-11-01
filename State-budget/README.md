@@ -47,4 +47,4 @@ This directory contains comprehensive budget and revenue data for Oregon state, 
 
 ## Usage
 
-These documents provide the financial foundation for determining how to fund the $650-850 million annual OFAP program. Review all documents together to understand the full budget context and identify optimal funding strategies.
+These documents provide the financial foundation for determining how to fund the $2.5-3.5 billion annual OFAP program (with universal eligibility). Review all documents together to understand the full budget context and identify optimal funding strategies. Universal eligibility significantly increases program costs but eliminates means-testing administrative expenses.

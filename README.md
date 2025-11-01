@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains ballot measure proposals and state budget analysis for establishing a **state-funded EBT-style food assistance program** in Oregon. The project addresses the critical food security crisis affecting hundreds of thousands of Oregonians who have lost federal SNAP benefits due to government shutdown.
+This repository contains ballot measure proposals and state budget analysis for establishing a **state-funded universal food assistance program** in Oregon using OFAP cards (restricted payment cards). OFAP cards can only be used to purchase authorized food items for home consumption, including staples, raw ingredients, seeds, and food-bearing plants. The program provides universal eligibility for all United States citizens who are natural persons and full-time Oregon residents, regardless of income. The project addresses the critical food security crisis and ensures all Oregon citizens have access to adequate food.
 
 ## The Crisis
 
@@ -111,11 +111,13 @@ Four ballot measures designed to establish the Oregon Food Assistance Program an
 
 #### Measure 2: Oregon Food Assistance Program Act (Statutory)
 
-- Creates the actual EBT-style program with detailed implementation framework
-- Eligibility: Households at 185% of federal poverty level
-- Monthly EBT benefits based on household size and income
+- Creates the actual OFAP card-based universal program with detailed implementation framework
+- **Universal Eligibility**: All United States citizens who are natural persons and full-time Oregon residents
+- Monthly OFAP card benefits based on household size (using federal Thrifty Food Plan standards)
+- **Purchase Restrictions**: OFAP cards can only be used for authorized food items - staples, raw ingredients, seeds, and food-bearing plants
+- No income restrictions - all eligible residents receive benefits regardless of income
 - Administered by Oregon Department of Human Services
-- All Oregon residents eligible (no immigration status restrictions)
+- Only requirements: US citizenship, natural person status, and full-time Oregon residency
 
 #### Measure 3: Oregon Food Security Fund (Statutory)
 
@@ -129,7 +131,7 @@ Four ballot measures designed to establish the Oregon Food Assistance Program an
 
 - Creates constitutionally protected permanent fund from existing cannabis revenues
 - **NO NEW TAXES**: Uses only existing 17% tax rate and existing licensing fees
-- 10% of existing tax revenue + all licensing fees to permanent fund ($37-47M annually)
+- 10% of existing tax revenue + all licensing fees to permanent fund (~$49-61M annually, based on actual revenue data)
 - Principal protection: Principal cannot be spent without voter approval
 - Earnings protection: Earnings cannot be reallocated by the legislative body without voter approval
 - Public vote required for any earnings reallocation changes
@@ -147,7 +149,7 @@ Comprehensive analysis of Oregon's state budget and revenue sources based on off
 - **OLCC Revenue**: ~$522 million annually (liquor + cannabis)
 - **Reserves**: $3.42 billion (Education Stability + Rainy Day Funds) ([Source: NASBO](https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/oregon-budget))
 
-**Key Finding**: OFAP ($650-850M annually) represents only 3.5-4.6% of biennial General Fund - **fully manageable** within Oregon's budget structure.
+**Key Finding**: OFAP ($2.5-3.5B annually with universal eligibility) represents 13.4-18.8% of biennial General Fund. Universal eligibility ensures all Oregon citizens have food security but significantly increases program costs compared to means-tested programs.
 
 📊 **See**: [`State-budget/nasbo-budget-data.md`](State-budget/nasbo-budget-data.md) for complete official budget data from [NASBO](https://www.nasbo.org/mainsite/resources/proposed-enacted-budgets/oregon-budget)
 
@@ -161,30 +163,35 @@ Comprehensive analysis of Oregon's state budget and revenue sources based on off
 
 ### Funding Capacity
 
-- **Primary Recommendation**: General Fund appropriation ($650-750M annually)
+- **Primary Recommendation**: General Fund appropriation ($2.5-3.5B annually)
 
-  - Represents only 3.5-4.0% of biennial General Fund
+  - Represents 13.4-18.8% of biennial General Fund
   - No new taxes required
-  - Most politically feasible approach
+  - Universal eligibility ensures all Oregon citizens have food security
+  - Simplified administration (no income verification) reduces some administrative costs
 
 - **Optional Supplements** (if approved):
   - Lottery Fund: 3-5% allocation (~$7-13M annually)
-  - OLCC Cannabis: 5-7% allocation (~$8-12M annually)
+  - OLCC Cannabis: 5-7% allocation (~$14.5-21.7M annually, updated based on actual revenue data)
 
-### Program Costs
+### Program Costs (Universal Eligibility)
 
-- **Annual Cost**: $650-850 million
-  - Benefits: $600-800 million
-  - Administration: $30-40 million (5% cap)
-  - Systems: $10-15 million
+- **Annual Cost**: $2.5-3.5 billion
+  - Benefits: $2.5-3.5 billion (universal eligibility for ~4.0-4.1M eligible Oregon residents)
+  - Administration: $125-175 million (5% cap, simplified due to no income verification)
+  - Systems: $20-30 million (larger scale system for universal program)
+- **Eligible Population**: All United States citizens who are natural persons and full-time Oregon residents (~4.0-4.1M of Oregon's 4.24M total population)
+- **Note**: Universal eligibility eliminates means-testing costs but significantly increases total program cost
 
-### Economic Benefits
+### Economic Benefits (Universal Eligibility)
 
 - **Economic Activity**: Every $1 generates $1.50-$2.00 in economic activity
-- **Total Economic Impact**: $960 million - $1.7 billion annually
-- **Healthcare Savings**: $100-200 million annually (prevented malnutrition costs)
-- **Tax Revenue Generated**: $50-100 million annually (from economic activity)
-- **Net Benefit**: Positive return on investment
+- **Total Economic Impact**: $3.75 - $7.0 billion annually (based on $2.5-3.5B program)
+- **Healthcare Savings**: $400-800 million annually (prevented malnutrition costs across entire population)
+- **Tax Revenue Generated**: $200-400 million annually (from economic activity)
+- **Consumer Spending**: Universal benefits ensure predictable spending across all income levels
+- **Agricultural Support**: All Oregonians support local farms and food retailers
+- **Net Benefit**: Positive return on investment, though at larger scale
 
 ### Design Principles
 
@@ -291,7 +298,7 @@ Comprehensive analysis of Oregon's state budget and revenue sources based on off
 ### Program Implementation (After Passage)
 
 - **Months 1-6**: Legal foundation, rulemaking, oversight board establishment
-- **Months 4-12**: System development, EBT infrastructure, staff hiring
+- **Months 4-12**: System development, OFAP card infrastructure with purchase restriction technology, staff hiring
 - **Months 10-18**: Pilot program in selected counties
 - **Months 18-36**: Phased rollout across all Oregon counties
 - **Month 36+**: Full statewide operation
@@ -324,7 +331,7 @@ Comprehensive analysis of Oregon's state budget and revenue sources based on off
 
 ### Financial
 
-- $650-850 million annual funding secured
+- $2.5-3.5 billion annual funding secured (universal eligibility model)
 - Administrative costs under 5%
 - Efficient operations with fraud prevention
 
