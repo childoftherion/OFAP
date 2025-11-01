@@ -12,7 +12,7 @@
 
 ## Summary
 
-This measure establishes the Oregon Food Assistance Program (OFAP), a state-funded universal program that provides monthly food benefits to all eligible Oregon residents using OFAP cards (restricted purchase cards). OFAP cards can only be used to purchase authorized food items for home consumption, including staples, raw ingredients, seeds, and food-bearing plants. The program operates independently of federal funding to ensure continuity during federal disruptions. Eligibility is universal for all United States citizens who are natural persons and full-time residents of Oregon, regardless of income. Benefits are determined by household size using federal Thrifty Food Plan standards, with no income-based reductions.
+This measure establishes the Oregon Food Assistance Program (OFAP), a state-funded universal program that provides monthly food benefits to all eligible Oregon residents using OFAP cards (restricted purchase cards). OFAP cards can only be used to purchase authorized food items for home consumption, including staples, raw ingredients, seeds, food-bearing plants, and any other agricultural products determined by the agency. The program operates independently of federal funding to ensure continuity during federal disruptions. Eligibility is universal for all United States citizens who are natural persons and full-time residents of Oregon, regardless of income. Benefits are determined by household size using federal Thrifty Food Plan standards, with no income-based reductions.
 
 ## Full Text (Proposed)
 
@@ -39,7 +39,8 @@ As used in this Act:
 (d) "Eligible resident" means a person who meets the universal eligibility criteria established in this Act (United States citizen, natural person, full-time Oregon resident)
 (e) "Natural person" means a human being, not a corporation, partnership, limited liability company, trust, estate, or other legal artificial person
 (f) "Full-time resident" means an individual who maintains Oregon as their primary place of residence for more than 183 days per year
-(g) "Household" means individuals who live together and purchase and prepare meals together
+(g) "Household" means individuals who live together and purchase and prepare meals together including individuals who identify as, or are identified as homeless, houseless, wtihout shelter, or otherwise, who live with alternative shelters. 
+(h) "Alternative Shelter" means any sheltering solution intended to protect oneself from the elements which includes but is not limited to tents, vehicles, recreational vehicles, lean-to's, tarps, bivy sacks, sleeping bags, etc., or any other means.  
 (h) "Food assistance benefit" means the monthly amount allocated to a household for food purchases based on household size using federal Thrifty Food Plan standards
 
 ### Section 3 - Eligibility
@@ -63,7 +64,11 @@ As used in this Act:
 (3) Age (applies to all age groups)
 (4) Disability status
 (5) Employment status
-(6) Asset ownership
+(6) Asset ownership and,
+(7) Must be in accordance with the Non-Discrimination Policy
+
+Non-Discrimination Policy
+The program shall serve all eligible residents without discrimination based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, marital status, familial status, disability, veteran status, income, household size, or employment status.
 
 (d) The Department shall establish procedures for:
 (1) Verification of United States citizenship
@@ -99,6 +104,7 @@ As used in this Act:
 (1) Cost of living adjustments
 (2) Federal Thrifty Food Plan updates
 (3) Regional cost variations as determined by the Department
+(4) In response to any major civil factors including but not limited to additional funding, natural disasters, a State of Emergency declaration by the Governor of the State of Oregon, or any other factor which neccesitates an increase in the Benefit. 
 
 ### Section 5 - Program Administration
 
@@ -192,6 +198,7 @@ As used in this Act:
 
 (c) Simplified Application Process and Records
 (1) The program will simplify application and recordkeeping processes to reduce administrative burdens, using clear and concise materials that enable timely eligibility decisions and prompt access to food benefits.
+(2) Program administration agency, without bias, will provide and ensure equittable access to the application process including but not limited to free and public internet access, safe location to complete the apllication such as a building with adequate shetler from the elements, support staff, etc.
 
 **412.065 - Certification Periods**
 (a) Eligible households shall be certified for benefits for a period determined by the Department, typically:
@@ -202,9 +209,13 @@ As used in this Act:
 (b) Households must report changes in circumstances within 10 days
 
 **412.070 - Application Processing**
-(a) Applications shall be processed within 30 days of receipt of complete documentation
-(b) Expedited processing (within 7 days) may be available for households facing immediate food insecurity, as determined by the Department
-(c) Incomplete applications shall be processed within 30 days of receipt of all required documentation
+(a) Applications shall be processed within 14 calendar days of receipt of complete documentation
+(b) Expedited processing (within 7 calendar days) may be available for households facing immediate food insecurity, as determined by the Department
+(c) Incomplete applications shall be processed within 14 calendar days of receipt of all required documentation
+(d) In cases of incomplete applications whereby the applicant can demonstrate an immediate need of the food benefit, the Department, at its discretion, may;
+    (1) waive remaining application materials and approve the applicant for the benefit;
+    (2) issue a temporary benefit in the amount equal to the full benefit amount for one month to the applicant on good faith that the applicant will be able to complete the application process; and/or,
+    (3) provide access to a food box which meets the criteria of the OFAP to meet the applicants immediate food needs.
 
 ### Section 7 - Funding
 
